@@ -1,0 +1,3025 @@
+,training_median
+PM2.5 (µg/m³)__lag_00,34.26
+PM10 (µg/m³)__lag_00,59.78
+NO2 (µg/m³)__lag_00,10.13
+SO2 (µg/m³)__lag_00,5.48
+CO (mg/m³)__lag_00,0.59
+Ozone (µg/m³)__lag_00,18.9
+AT (°C)__lag_00,31.26
+RH (%)__lag_00,73.68
+WS (m/s)__lag_00,0.78
+WD (deg)__lag_00,213.56
+RF (mm)__lag_00,0.0
+TOT-RF (mm)__lag_00,0.0
+SR (W/mt2)__lag_00,15.3
+BP (mmHg)__lag_00,759.485
+PM2.5 (µg/m³)__subindex__lag_00,58.0
+PM10 (µg/m³)__subindex__lag_00,61.0
+NO2 (µg/m³)__subindex__lag_00,13.0
+SO2 (µg/m³)__subindex__lag_00,7.0
+CO (mg/m³)__subindex__lag_00,30.0
+Ozone (µg/m³)__subindex__lag_00,19.0
+AQI__lag_00,62.0
+Second_Subindex__lag_00,58.0
+Dominance_Gap__lag_00,3.0
+Valid_Pollutant_Count__lag_00,6.0
+Valid_Subindex_Count__lag_00,6.0
+AQI_Boundary_Distance__lag_00,12.0
+Nearest_AQI_Boundary__lag_00,50.0
+PM2.5_Boundary_Distance__lag_00,9.0
+PM10_Boundary_Distance__lag_00,11.0
+NO2_Boundary_Distance__lag_00,37.0
+SO2_Boundary_Distance__lag_00,43.0
+CO_Boundary_Distance__lag_00,20.0
+Ozone_Boundary_Distance__lag_00,31.0
+CoElevated_Count_Above_50__lag_00,2.0
+CoElevated_Count_Above_100__lag_00,0.0
+Dominant_PM2.5__lag_00,0.0
+Dominant_PM10__lag_00,1.0
+Dominant_NO2__lag_00,0.0
+Dominant_SO2__lag_00,0.0
+Dominant_CO__lag_00,0.0
+Dominant_Ozone__lag_00,0.0
+AQI_Boundary_Velocity__lag_00,0.0
+Dominance_Stability_12h__lag_00,1.0
+PM2.5_Boundary_Velocity__lag_00,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_00,-6.0
+PM2.5_Boundary_Flux__lag_00,0.0
+PM10_Boundary_Velocity__lag_00,0.0
+PM10_ReguFlow_Signed_Distance__lag_00,-10.0
+PM10_Boundary_Flux__lag_00,0.0
+NO2_Boundary_Velocity__lag_00,0.0
+NO2_ReguFlow_Signed_Distance__lag_00,37.0
+NO2_Boundary_Flux__lag_00,0.0
+SO2_Boundary_Velocity__lag_00,0.0
+SO2_ReguFlow_Signed_Distance__lag_00,43.0
+SO2_Boundary_Flux__lag_00,0.0
+CO_Boundary_Velocity__lag_00,0.0
+CO_ReguFlow_Signed_Distance__lag_00,20.0
+CO_Boundary_Flux__lag_00,0.0
+Ozone_Boundary_Velocity__lag_00,0.0
+Ozone_ReguFlow_Signed_Distance__lag_00,31.0
+Ozone_Boundary_Flux__lag_00,0.0
+ReguFlow_Top2_Dominance_Gap__lag_00,3.0
+ReguFlow_Competition_Flux__lag_00,0.0
+PM2.5 (µg/m³)__lag_01,34.26
+PM10 (µg/m³)__lag_01,59.75
+NO2 (µg/m³)__lag_01,10.12
+SO2 (µg/m³)__lag_01,5.48
+CO (mg/m³)__lag_01,0.59
+Ozone (µg/m³)__lag_01,18.88
+AT (°C)__lag_01,31.26
+RH (%)__lag_01,73.72
+WS (m/s)__lag_01,0.78
+WD (deg)__lag_01,213.65
+RF (mm)__lag_01,0.0
+TOT-RF (mm)__lag_01,0.0
+SR (W/mt2)__lag_01,17.05
+BP (mmHg)__lag_01,759.51
+PM2.5 (µg/m³)__subindex__lag_01,58.0
+PM10 (µg/m³)__subindex__lag_01,61.0
+NO2 (µg/m³)__subindex__lag_01,13.0
+SO2 (µg/m³)__subindex__lag_01,7.0
+CO (mg/m³)__subindex__lag_01,30.0
+Ozone (µg/m³)__subindex__lag_01,19.0
+AQI__lag_01,62.0
+Second_Subindex__lag_01,58.0
+Dominance_Gap__lag_01,3.0
+Valid_Pollutant_Count__lag_01,6.0
+Valid_Subindex_Count__lag_01,6.0
+AQI_Boundary_Distance__lag_01,12.0
+Nearest_AQI_Boundary__lag_01,50.0
+PM2.5_Boundary_Distance__lag_01,9.0
+PM10_Boundary_Distance__lag_01,11.0
+NO2_Boundary_Distance__lag_01,37.0
+SO2_Boundary_Distance__lag_01,43.0
+CO_Boundary_Distance__lag_01,20.0
+Ozone_Boundary_Distance__lag_01,31.0
+CoElevated_Count_Above_50__lag_01,2.0
+CoElevated_Count_Above_100__lag_01,0.0
+Dominant_PM2.5__lag_01,0.0
+Dominant_PM10__lag_01,1.0
+Dominant_NO2__lag_01,0.0
+Dominant_SO2__lag_01,0.0
+Dominant_CO__lag_01,0.0
+Dominant_Ozone__lag_01,0.0
+AQI_Boundary_Velocity__lag_01,0.0
+Dominance_Stability_12h__lag_01,1.0
+PM2.5_Boundary_Velocity__lag_01,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_01,-6.0
+PM2.5_Boundary_Flux__lag_01,0.0
+PM10_Boundary_Velocity__lag_01,0.0
+PM10_ReguFlow_Signed_Distance__lag_01,-10.0
+PM10_Boundary_Flux__lag_01,0.0
+NO2_Boundary_Velocity__lag_01,0.0
+NO2_ReguFlow_Signed_Distance__lag_01,37.0
+NO2_Boundary_Flux__lag_01,0.0
+SO2_Boundary_Velocity__lag_01,0.0
+SO2_ReguFlow_Signed_Distance__lag_01,43.0
+SO2_Boundary_Flux__lag_01,0.0
+CO_Boundary_Velocity__lag_01,0.0
+CO_ReguFlow_Signed_Distance__lag_01,20.0
+CO_Boundary_Flux__lag_01,0.0
+Ozone_Boundary_Velocity__lag_01,0.0
+Ozone_ReguFlow_Signed_Distance__lag_01,31.0
+Ozone_Boundary_Flux__lag_01,0.0
+ReguFlow_Top2_Dominance_Gap__lag_01,3.0
+ReguFlow_Competition_Flux__lag_01,0.0
+PM2.5 (µg/m³)__lag_02,34.27
+PM10 (µg/m³)__lag_02,59.74
+NO2 (µg/m³)__lag_02,10.12
+SO2 (µg/m³)__lag_02,5.48
+CO (mg/m³)__lag_02,0.59
+Ozone (µg/m³)__lag_02,18.88
+AT (°C)__lag_02,31.26
+RH (%)__lag_02,73.8
+WS (m/s)__lag_02,0.78
+WD (deg)__lag_02,213.67
+RF (mm)__lag_02,0.0
+TOT-RF (mm)__lag_02,0.0
+SR (W/mt2)__lag_02,18.71
+BP (mmHg)__lag_02,759.555
+PM2.5 (µg/m³)__subindex__lag_02,58.0
+PM10 (µg/m³)__subindex__lag_02,61.0
+NO2 (µg/m³)__subindex__lag_02,13.0
+SO2 (µg/m³)__subindex__lag_02,7.0
+CO (mg/m³)__subindex__lag_02,30.0
+Ozone (µg/m³)__subindex__lag_02,19.0
+AQI__lag_02,62.0
+Second_Subindex__lag_02,58.0
+Dominance_Gap__lag_02,3.0
+Valid_Pollutant_Count__lag_02,6.0
+Valid_Subindex_Count__lag_02,6.0
+AQI_Boundary_Distance__lag_02,12.0
+Nearest_AQI_Boundary__lag_02,50.0
+PM2.5_Boundary_Distance__lag_02,9.0
+PM10_Boundary_Distance__lag_02,11.0
+NO2_Boundary_Distance__lag_02,37.0
+SO2_Boundary_Distance__lag_02,43.0
+CO_Boundary_Distance__lag_02,20.0
+Ozone_Boundary_Distance__lag_02,31.0
+CoElevated_Count_Above_50__lag_02,2.0
+CoElevated_Count_Above_100__lag_02,0.0
+Dominant_PM2.5__lag_02,0.0
+Dominant_PM10__lag_02,1.0
+Dominant_NO2__lag_02,0.0
+Dominant_SO2__lag_02,0.0
+Dominant_CO__lag_02,0.0
+Dominant_Ozone__lag_02,0.0
+AQI_Boundary_Velocity__lag_02,0.0
+Dominance_Stability_12h__lag_02,1.0
+PM2.5_Boundary_Velocity__lag_02,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_02,-6.0
+PM2.5_Boundary_Flux__lag_02,0.0
+PM10_Boundary_Velocity__lag_02,0.0
+PM10_ReguFlow_Signed_Distance__lag_02,-10.0
+PM10_Boundary_Flux__lag_02,0.0
+NO2_Boundary_Velocity__lag_02,0.0
+NO2_ReguFlow_Signed_Distance__lag_02,37.0
+NO2_Boundary_Flux__lag_02,0.0
+SO2_Boundary_Velocity__lag_02,0.0
+SO2_ReguFlow_Signed_Distance__lag_02,43.0
+SO2_Boundary_Flux__lag_02,0.0
+CO_Boundary_Velocity__lag_02,0.0
+CO_ReguFlow_Signed_Distance__lag_02,20.0
+CO_Boundary_Flux__lag_02,0.0
+Ozone_Boundary_Velocity__lag_02,0.0
+Ozone_ReguFlow_Signed_Distance__lag_02,31.0
+Ozone_Boundary_Flux__lag_02,0.0
+ReguFlow_Top2_Dominance_Gap__lag_02,3.0
+ReguFlow_Competition_Flux__lag_02,0.0
+PM2.5 (µg/m³)__lag_03,34.265
+PM10 (µg/m³)__lag_03,59.75
+NO2 (µg/m³)__lag_03,10.12
+SO2 (µg/m³)__lag_03,5.48
+CO (mg/m³)__lag_03,0.59
+Ozone (µg/m³)__lag_03,18.88
+AT (°C)__lag_03,31.26
+RH (%)__lag_03,73.83
+WS (m/s)__lag_03,0.78
+WD (deg)__lag_03,213.675
+RF (mm)__lag_03,0.0
+TOT-RF (mm)__lag_03,0.0
+SR (W/mt2)__lag_03,19.57
+BP (mmHg)__lag_03,759.59
+PM2.5 (µg/m³)__subindex__lag_03,58.0
+PM10 (µg/m³)__subindex__lag_03,61.0
+NO2 (µg/m³)__subindex__lag_03,13.0
+SO2 (µg/m³)__subindex__lag_03,7.0
+CO (mg/m³)__subindex__lag_03,30.0
+Ozone (µg/m³)__subindex__lag_03,19.0
+AQI__lag_03,62.0
+Second_Subindex__lag_03,58.0
+Dominance_Gap__lag_03,3.0
+Valid_Pollutant_Count__lag_03,6.0
+Valid_Subindex_Count__lag_03,6.0
+AQI_Boundary_Distance__lag_03,12.0
+Nearest_AQI_Boundary__lag_03,50.0
+PM2.5_Boundary_Distance__lag_03,9.0
+PM10_Boundary_Distance__lag_03,11.0
+NO2_Boundary_Distance__lag_03,37.0
+SO2_Boundary_Distance__lag_03,43.0
+CO_Boundary_Distance__lag_03,20.0
+Ozone_Boundary_Distance__lag_03,31.0
+CoElevated_Count_Above_50__lag_03,2.0
+CoElevated_Count_Above_100__lag_03,0.0
+Dominant_PM2.5__lag_03,0.0
+Dominant_PM10__lag_03,1.0
+Dominant_NO2__lag_03,0.0
+Dominant_SO2__lag_03,0.0
+Dominant_CO__lag_03,0.0
+Dominant_Ozone__lag_03,0.0
+AQI_Boundary_Velocity__lag_03,0.0
+Dominance_Stability_12h__lag_03,1.0
+PM2.5_Boundary_Velocity__lag_03,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_03,-6.0
+PM2.5_Boundary_Flux__lag_03,0.0
+PM10_Boundary_Velocity__lag_03,0.0
+PM10_ReguFlow_Signed_Distance__lag_03,-10.0
+PM10_Boundary_Flux__lag_03,0.0
+NO2_Boundary_Velocity__lag_03,0.0
+NO2_ReguFlow_Signed_Distance__lag_03,37.0
+NO2_Boundary_Flux__lag_03,0.0
+SO2_Boundary_Velocity__lag_03,0.0
+SO2_ReguFlow_Signed_Distance__lag_03,43.0
+SO2_Boundary_Flux__lag_03,0.0
+CO_Boundary_Velocity__lag_03,0.0
+CO_ReguFlow_Signed_Distance__lag_03,20.0
+CO_Boundary_Flux__lag_03,0.0
+Ozone_Boundary_Velocity__lag_03,0.0
+Ozone_ReguFlow_Signed_Distance__lag_03,31.0
+Ozone_Boundary_Flux__lag_03,0.0
+ReguFlow_Top2_Dominance_Gap__lag_03,3.0
+ReguFlow_Competition_Flux__lag_03,0.0
+PM2.5 (µg/m³)__lag_04,34.26
+PM10 (µg/m³)__lag_04,59.72
+NO2 (µg/m³)__lag_04,10.13
+SO2 (µg/m³)__lag_04,5.48
+CO (mg/m³)__lag_04,0.6
+Ozone (µg/m³)__lag_04,18.83
+AT (°C)__lag_04,31.25
+RH (%)__lag_04,73.85
+WS (m/s)__lag_04,0.78
+WD (deg)__lag_04,213.675
+RF (mm)__lag_04,0.0
+TOT-RF (mm)__lag_04,0.0
+SR (W/mt2)__lag_04,19.42
+BP (mmHg)__lag_04,759.625
+PM2.5 (µg/m³)__subindex__lag_04,58.0
+PM10 (µg/m³)__subindex__lag_04,61.0
+NO2 (µg/m³)__subindex__lag_04,13.0
+SO2 (µg/m³)__subindex__lag_04,7.0
+CO (mg/m³)__subindex__lag_04,30.0
+Ozone (µg/m³)__subindex__lag_04,19.0
+AQI__lag_04,62.0
+Second_Subindex__lag_04,58.0
+Dominance_Gap__lag_04,3.0
+Valid_Pollutant_Count__lag_04,6.0
+Valid_Subindex_Count__lag_04,6.0
+AQI_Boundary_Distance__lag_04,12.0
+Nearest_AQI_Boundary__lag_04,50.0
+PM2.5_Boundary_Distance__lag_04,9.0
+PM10_Boundary_Distance__lag_04,11.0
+NO2_Boundary_Distance__lag_04,37.0
+SO2_Boundary_Distance__lag_04,43.0
+CO_Boundary_Distance__lag_04,20.0
+Ozone_Boundary_Distance__lag_04,31.0
+CoElevated_Count_Above_50__lag_04,2.0
+CoElevated_Count_Above_100__lag_04,0.0
+Dominant_PM2.5__lag_04,0.0
+Dominant_PM10__lag_04,1.0
+Dominant_NO2__lag_04,0.0
+Dominant_SO2__lag_04,0.0
+Dominant_CO__lag_04,0.0
+Dominant_Ozone__lag_04,0.0
+AQI_Boundary_Velocity__lag_04,0.0
+Dominance_Stability_12h__lag_04,1.0
+PM2.5_Boundary_Velocity__lag_04,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_04,-6.0
+PM2.5_Boundary_Flux__lag_04,0.0
+PM10_Boundary_Velocity__lag_04,0.0
+PM10_ReguFlow_Signed_Distance__lag_04,-10.0
+PM10_Boundary_Flux__lag_04,0.0
+NO2_Boundary_Velocity__lag_04,0.0
+NO2_ReguFlow_Signed_Distance__lag_04,37.0
+NO2_Boundary_Flux__lag_04,0.0
+SO2_Boundary_Velocity__lag_04,0.0
+SO2_ReguFlow_Signed_Distance__lag_04,43.0
+SO2_Boundary_Flux__lag_04,0.0
+CO_Boundary_Velocity__lag_04,0.0
+CO_ReguFlow_Signed_Distance__lag_04,20.0
+CO_Boundary_Flux__lag_04,0.0
+Ozone_Boundary_Velocity__lag_04,0.0
+Ozone_ReguFlow_Signed_Distance__lag_04,31.0
+Ozone_Boundary_Flux__lag_04,0.0
+ReguFlow_Top2_Dominance_Gap__lag_04,3.0
+ReguFlow_Competition_Flux__lag_04,0.0
+PM2.5 (µg/m³)__lag_05,34.25
+PM10 (µg/m³)__lag_05,59.69
+NO2 (µg/m³)__lag_05,10.13
+SO2 (µg/m³)__lag_05,5.48
+CO (mg/m³)__lag_05,0.6
+Ozone (µg/m³)__lag_05,18.82
+AT (°C)__lag_05,31.24
+RH (%)__lag_05,73.92
+WS (m/s)__lag_05,0.78
+WD (deg)__lag_05,213.675
+RF (mm)__lag_05,0.0
+TOT-RF (mm)__lag_05,0.0
+SR (W/mt2)__lag_05,18.645000000000003
+BP (mmHg)__lag_05,759.63
+PM2.5 (µg/m³)__subindex__lag_05,58.0
+PM10 (µg/m³)__subindex__lag_05,61.0
+NO2 (µg/m³)__subindex__lag_05,13.0
+SO2 (µg/m³)__subindex__lag_05,7.0
+CO (mg/m³)__subindex__lag_05,30.0
+Ozone (µg/m³)__subindex__lag_05,19.0
+AQI__lag_05,62.0
+Second_Subindex__lag_05,58.0
+Dominance_Gap__lag_05,3.0
+Valid_Pollutant_Count__lag_05,6.0
+Valid_Subindex_Count__lag_05,6.0
+AQI_Boundary_Distance__lag_05,12.0
+Nearest_AQI_Boundary__lag_05,50.0
+PM2.5_Boundary_Distance__lag_05,9.0
+PM10_Boundary_Distance__lag_05,11.0
+NO2_Boundary_Distance__lag_05,37.0
+SO2_Boundary_Distance__lag_05,43.0
+CO_Boundary_Distance__lag_05,20.0
+Ozone_Boundary_Distance__lag_05,31.0
+CoElevated_Count_Above_50__lag_05,2.0
+CoElevated_Count_Above_100__lag_05,0.0
+Dominant_PM2.5__lag_05,0.0
+Dominant_PM10__lag_05,1.0
+Dominant_NO2__lag_05,0.0
+Dominant_SO2__lag_05,0.0
+Dominant_CO__lag_05,0.0
+Dominant_Ozone__lag_05,0.0
+AQI_Boundary_Velocity__lag_05,0.0
+Dominance_Stability_12h__lag_05,1.0
+PM2.5_Boundary_Velocity__lag_05,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_05,-6.0
+PM2.5_Boundary_Flux__lag_05,0.0
+PM10_Boundary_Velocity__lag_05,0.0
+PM10_ReguFlow_Signed_Distance__lag_05,-10.0
+PM10_Boundary_Flux__lag_05,0.0
+NO2_Boundary_Velocity__lag_05,0.0
+NO2_ReguFlow_Signed_Distance__lag_05,37.0
+NO2_Boundary_Flux__lag_05,0.0
+SO2_Boundary_Velocity__lag_05,0.0
+SO2_ReguFlow_Signed_Distance__lag_05,43.0
+SO2_Boundary_Flux__lag_05,0.0
+CO_Boundary_Velocity__lag_05,0.0
+CO_ReguFlow_Signed_Distance__lag_05,20.0
+CO_Boundary_Flux__lag_05,0.0
+Ozone_Boundary_Velocity__lag_05,0.0
+Ozone_ReguFlow_Signed_Distance__lag_05,31.0
+Ozone_Boundary_Flux__lag_05,0.0
+ReguFlow_Top2_Dominance_Gap__lag_05,3.0
+ReguFlow_Competition_Flux__lag_05,0.0
+PM2.5 (µg/m³)__lag_06,34.24
+PM10 (µg/m³)__lag_06,59.69
+NO2 (µg/m³)__lag_06,10.13
+SO2 (µg/m³)__lag_06,5.48
+CO (mg/m³)__lag_06,0.6
+Ozone (µg/m³)__lag_06,18.8
+AT (°C)__lag_06,31.22
+RH (%)__lag_06,74.0
+WS (m/s)__lag_06,0.78
+WD (deg)__lag_06,213.65
+RF (mm)__lag_06,0.0
+TOT-RF (mm)__lag_06,0.0
+SR (W/mt2)__lag_06,18.33
+BP (mmHg)__lag_06,759.64
+PM2.5 (µg/m³)__subindex__lag_06,58.0
+PM10 (µg/m³)__subindex__lag_06,61.0
+NO2 (µg/m³)__subindex__lag_06,13.0
+SO2 (µg/m³)__subindex__lag_06,7.0
+CO (mg/m³)__subindex__lag_06,30.0
+Ozone (µg/m³)__subindex__lag_06,19.0
+AQI__lag_06,62.0
+Second_Subindex__lag_06,58.0
+Dominance_Gap__lag_06,3.0
+Valid_Pollutant_Count__lag_06,6.0
+Valid_Subindex_Count__lag_06,6.0
+AQI_Boundary_Distance__lag_06,12.0
+Nearest_AQI_Boundary__lag_06,50.0
+PM2.5_Boundary_Distance__lag_06,9.0
+PM10_Boundary_Distance__lag_06,11.0
+NO2_Boundary_Distance__lag_06,37.0
+SO2_Boundary_Distance__lag_06,43.0
+CO_Boundary_Distance__lag_06,20.0
+Ozone_Boundary_Distance__lag_06,31.0
+CoElevated_Count_Above_50__lag_06,2.0
+CoElevated_Count_Above_100__lag_06,0.0
+Dominant_PM2.5__lag_06,0.0
+Dominant_PM10__lag_06,1.0
+Dominant_NO2__lag_06,0.0
+Dominant_SO2__lag_06,0.0
+Dominant_CO__lag_06,0.0
+Dominant_Ozone__lag_06,0.0
+AQI_Boundary_Velocity__lag_06,0.0
+Dominance_Stability_12h__lag_06,1.0
+PM2.5_Boundary_Velocity__lag_06,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_06,-6.0
+PM2.5_Boundary_Flux__lag_06,0.0
+PM10_Boundary_Velocity__lag_06,0.0
+PM10_ReguFlow_Signed_Distance__lag_06,-10.0
+PM10_Boundary_Flux__lag_06,0.0
+NO2_Boundary_Velocity__lag_06,0.0
+NO2_ReguFlow_Signed_Distance__lag_06,37.0
+NO2_Boundary_Flux__lag_06,0.0
+SO2_Boundary_Velocity__lag_06,0.0
+SO2_ReguFlow_Signed_Distance__lag_06,43.0
+SO2_Boundary_Flux__lag_06,0.0
+CO_Boundary_Velocity__lag_06,0.0
+CO_ReguFlow_Signed_Distance__lag_06,20.0
+CO_Boundary_Flux__lag_06,0.0
+Ozone_Boundary_Velocity__lag_06,0.0
+Ozone_ReguFlow_Signed_Distance__lag_06,31.0
+Ozone_Boundary_Flux__lag_06,0.0
+ReguFlow_Top2_Dominance_Gap__lag_06,3.0
+ReguFlow_Competition_Flux__lag_06,0.0
+PM2.5 (µg/m³)__lag_07,34.24
+PM10 (µg/m³)__lag_07,59.68
+NO2 (µg/m³)__lag_07,10.13
+SO2 (µg/m³)__lag_07,5.48
+CO (mg/m³)__lag_07,0.6
+Ozone (µg/m³)__lag_07,18.79
+AT (°C)__lag_07,31.205
+RH (%)__lag_07,74.08500000000001
+WS (m/s)__lag_07,0.78
+WD (deg)__lag_07,213.65
+RF (mm)__lag_07,0.0
+TOT-RF (mm)__lag_07,0.0
+SR (W/mt2)__lag_07,17.74
+BP (mmHg)__lag_07,759.715
+PM2.5 (µg/m³)__subindex__lag_07,58.0
+PM10 (µg/m³)__subindex__lag_07,61.0
+NO2 (µg/m³)__subindex__lag_07,13.0
+SO2 (µg/m³)__subindex__lag_07,7.0
+CO (mg/m³)__subindex__lag_07,30.0
+Ozone (µg/m³)__subindex__lag_07,19.0
+AQI__lag_07,62.0
+Second_Subindex__lag_07,58.0
+Dominance_Gap__lag_07,3.0
+Valid_Pollutant_Count__lag_07,6.0
+Valid_Subindex_Count__lag_07,6.0
+AQI_Boundary_Distance__lag_07,12.0
+Nearest_AQI_Boundary__lag_07,50.0
+PM2.5_Boundary_Distance__lag_07,9.0
+PM10_Boundary_Distance__lag_07,11.0
+NO2_Boundary_Distance__lag_07,37.0
+SO2_Boundary_Distance__lag_07,43.0
+CO_Boundary_Distance__lag_07,20.0
+Ozone_Boundary_Distance__lag_07,31.0
+CoElevated_Count_Above_50__lag_07,2.0
+CoElevated_Count_Above_100__lag_07,0.0
+Dominant_PM2.5__lag_07,0.0
+Dominant_PM10__lag_07,1.0
+Dominant_NO2__lag_07,0.0
+Dominant_SO2__lag_07,0.0
+Dominant_CO__lag_07,0.0
+Dominant_Ozone__lag_07,0.0
+AQI_Boundary_Velocity__lag_07,0.0
+Dominance_Stability_12h__lag_07,1.0
+PM2.5_Boundary_Velocity__lag_07,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_07,-6.0
+PM2.5_Boundary_Flux__lag_07,0.0
+PM10_Boundary_Velocity__lag_07,0.0
+PM10_ReguFlow_Signed_Distance__lag_07,-10.0
+PM10_Boundary_Flux__lag_07,0.0
+NO2_Boundary_Velocity__lag_07,0.0
+NO2_ReguFlow_Signed_Distance__lag_07,37.0
+NO2_Boundary_Flux__lag_07,0.0
+SO2_Boundary_Velocity__lag_07,0.0
+SO2_ReguFlow_Signed_Distance__lag_07,43.0
+SO2_Boundary_Flux__lag_07,0.0
+CO_Boundary_Velocity__lag_07,0.0
+CO_ReguFlow_Signed_Distance__lag_07,20.0
+CO_Boundary_Flux__lag_07,0.0
+Ozone_Boundary_Velocity__lag_07,0.0
+Ozone_ReguFlow_Signed_Distance__lag_07,31.0
+Ozone_Boundary_Flux__lag_07,0.0
+ReguFlow_Top2_Dominance_Gap__lag_07,3.0
+ReguFlow_Competition_Flux__lag_07,0.0
+PM2.5 (µg/m³)__lag_08,34.23
+PM10 (µg/m³)__lag_08,59.65
+NO2 (µg/m³)__lag_08,10.13
+SO2 (µg/m³)__lag_08,5.48
+CO (mg/m³)__lag_08,0.6
+Ozone (µg/m³)__lag_08,18.76
+AT (°C)__lag_08,31.19
+RH (%)__lag_08,74.225
+WS (m/s)__lag_08,0.78
+WD (deg)__lag_08,213.57
+RF (mm)__lag_08,0.0
+TOT-RF (mm)__lag_08,0.0
+SR (W/mt2)__lag_08,16.78
+BP (mmHg)__lag_08,759.72
+PM2.5 (µg/m³)__subindex__lag_08,58.0
+PM10 (µg/m³)__subindex__lag_08,61.0
+NO2 (µg/m³)__subindex__lag_08,13.0
+SO2 (µg/m³)__subindex__lag_08,7.0
+CO (mg/m³)__subindex__lag_08,30.0
+Ozone (µg/m³)__subindex__lag_08,19.0
+AQI__lag_08,62.0
+Second_Subindex__lag_08,58.0
+Dominance_Gap__lag_08,3.0
+Valid_Pollutant_Count__lag_08,6.0
+Valid_Subindex_Count__lag_08,6.0
+AQI_Boundary_Distance__lag_08,12.0
+Nearest_AQI_Boundary__lag_08,50.0
+PM2.5_Boundary_Distance__lag_08,9.0
+PM10_Boundary_Distance__lag_08,11.0
+NO2_Boundary_Distance__lag_08,37.0
+SO2_Boundary_Distance__lag_08,43.0
+CO_Boundary_Distance__lag_08,20.0
+Ozone_Boundary_Distance__lag_08,31.0
+CoElevated_Count_Above_50__lag_08,2.0
+CoElevated_Count_Above_100__lag_08,0.0
+Dominant_PM2.5__lag_08,0.0
+Dominant_PM10__lag_08,1.0
+Dominant_NO2__lag_08,0.0
+Dominant_SO2__lag_08,0.0
+Dominant_CO__lag_08,0.0
+Dominant_Ozone__lag_08,0.0
+AQI_Boundary_Velocity__lag_08,0.0
+Dominance_Stability_12h__lag_08,1.0
+PM2.5_Boundary_Velocity__lag_08,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_08,-6.0
+PM2.5_Boundary_Flux__lag_08,0.0
+PM10_Boundary_Velocity__lag_08,0.0
+PM10_ReguFlow_Signed_Distance__lag_08,-10.0
+PM10_Boundary_Flux__lag_08,0.0
+NO2_Boundary_Velocity__lag_08,0.0
+NO2_ReguFlow_Signed_Distance__lag_08,37.0
+NO2_Boundary_Flux__lag_08,0.0
+SO2_Boundary_Velocity__lag_08,0.0
+SO2_ReguFlow_Signed_Distance__lag_08,43.0
+SO2_Boundary_Flux__lag_08,0.0
+CO_Boundary_Velocity__lag_08,0.0
+CO_ReguFlow_Signed_Distance__lag_08,20.0
+CO_Boundary_Flux__lag_08,0.0
+Ozone_Boundary_Velocity__lag_08,0.0
+Ozone_ReguFlow_Signed_Distance__lag_08,31.0
+Ozone_Boundary_Flux__lag_08,0.0
+ReguFlow_Top2_Dominance_Gap__lag_08,3.0
+ReguFlow_Competition_Flux__lag_08,0.0
+PM2.5 (µg/m³)__lag_09,34.22
+PM10 (µg/m³)__lag_09,59.655
+NO2 (µg/m³)__lag_09,10.13
+SO2 (µg/m³)__lag_09,5.47
+CO (mg/m³)__lag_09,0.6
+Ozone (µg/m³)__lag_09,18.71
+AT (°C)__lag_09,31.18
+RH (%)__lag_09,74.38
+WS (m/s)__lag_09,0.78
+WD (deg)__lag_09,213.525
+RF (mm)__lag_09,0.0
+TOT-RF (mm)__lag_09,0.0
+SR (W/mt2)__lag_09,15.45
+BP (mmHg)__lag_09,759.73
+PM2.5 (µg/m³)__subindex__lag_09,58.0
+PM10 (µg/m³)__subindex__lag_09,61.0
+NO2 (µg/m³)__subindex__lag_09,13.0
+SO2 (µg/m³)__subindex__lag_09,7.0
+CO (mg/m³)__subindex__lag_09,30.0
+Ozone (µg/m³)__subindex__lag_09,19.0
+AQI__lag_09,62.0
+Second_Subindex__lag_09,58.0
+Dominance_Gap__lag_09,3.0
+Valid_Pollutant_Count__lag_09,6.0
+Valid_Subindex_Count__lag_09,6.0
+AQI_Boundary_Distance__lag_09,12.0
+Nearest_AQI_Boundary__lag_09,50.0
+PM2.5_Boundary_Distance__lag_09,9.0
+PM10_Boundary_Distance__lag_09,11.0
+NO2_Boundary_Distance__lag_09,37.0
+SO2_Boundary_Distance__lag_09,43.0
+CO_Boundary_Distance__lag_09,20.0
+Ozone_Boundary_Distance__lag_09,31.0
+CoElevated_Count_Above_50__lag_09,2.0
+CoElevated_Count_Above_100__lag_09,0.0
+Dominant_PM2.5__lag_09,0.0
+Dominant_PM10__lag_09,1.0
+Dominant_NO2__lag_09,0.0
+Dominant_SO2__lag_09,0.0
+Dominant_CO__lag_09,0.0
+Dominant_Ozone__lag_09,0.0
+AQI_Boundary_Velocity__lag_09,0.0
+Dominance_Stability_12h__lag_09,1.0
+PM2.5_Boundary_Velocity__lag_09,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_09,-6.0
+PM2.5_Boundary_Flux__lag_09,0.0
+PM10_Boundary_Velocity__lag_09,0.0
+PM10_ReguFlow_Signed_Distance__lag_09,-10.0
+PM10_Boundary_Flux__lag_09,0.0
+NO2_Boundary_Velocity__lag_09,0.0
+NO2_ReguFlow_Signed_Distance__lag_09,37.0
+NO2_Boundary_Flux__lag_09,0.0
+SO2_Boundary_Velocity__lag_09,0.0
+SO2_ReguFlow_Signed_Distance__lag_09,43.0
+SO2_Boundary_Flux__lag_09,0.0
+CO_Boundary_Velocity__lag_09,0.0
+CO_ReguFlow_Signed_Distance__lag_09,20.0
+CO_Boundary_Flux__lag_09,0.0
+Ozone_Boundary_Velocity__lag_09,0.0
+Ozone_ReguFlow_Signed_Distance__lag_09,31.0
+Ozone_Boundary_Flux__lag_09,0.0
+ReguFlow_Top2_Dominance_Gap__lag_09,3.0
+ReguFlow_Competition_Flux__lag_09,0.0
+PM2.5 (µg/m³)__lag_10,34.23
+PM10 (µg/m³)__lag_10,59.65
+NO2 (µg/m³)__lag_10,10.13
+SO2 (µg/m³)__lag_10,5.47
+CO (mg/m³)__lag_10,0.6
+Ozone (µg/m³)__lag_10,18.69
+AT (°C)__lag_10,31.16
+RH (%)__lag_10,74.49
+WS (m/s)__lag_10,0.78
+WD (deg)__lag_10,213.48
+RF (mm)__lag_10,0.0
+TOT-RF (mm)__lag_10,0.0
+SR (W/mt2)__lag_10,13.89
+BP (mmHg)__lag_10,759.73
+PM2.5 (µg/m³)__subindex__lag_10,58.0
+PM10 (µg/m³)__subindex__lag_10,61.0
+NO2 (µg/m³)__subindex__lag_10,13.0
+SO2 (µg/m³)__subindex__lag_10,7.0
+CO (mg/m³)__subindex__lag_10,30.0
+Ozone (µg/m³)__subindex__lag_10,19.0
+AQI__lag_10,62.0
+Second_Subindex__lag_10,58.0
+Dominance_Gap__lag_10,3.0
+Valid_Pollutant_Count__lag_10,6.0
+Valid_Subindex_Count__lag_10,6.0
+AQI_Boundary_Distance__lag_10,12.0
+Nearest_AQI_Boundary__lag_10,50.0
+PM2.5_Boundary_Distance__lag_10,9.0
+PM10_Boundary_Distance__lag_10,11.0
+NO2_Boundary_Distance__lag_10,37.0
+SO2_Boundary_Distance__lag_10,43.0
+CO_Boundary_Distance__lag_10,20.0
+Ozone_Boundary_Distance__lag_10,31.0
+CoElevated_Count_Above_50__lag_10,2.0
+CoElevated_Count_Above_100__lag_10,0.0
+Dominant_PM2.5__lag_10,0.0
+Dominant_PM10__lag_10,1.0
+Dominant_NO2__lag_10,0.0
+Dominant_SO2__lag_10,0.0
+Dominant_CO__lag_10,0.0
+Dominant_Ozone__lag_10,0.0
+AQI_Boundary_Velocity__lag_10,0.0
+Dominance_Stability_12h__lag_10,1.0
+PM2.5_Boundary_Velocity__lag_10,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_10,-6.0
+PM2.5_Boundary_Flux__lag_10,0.0
+PM10_Boundary_Velocity__lag_10,0.0
+PM10_ReguFlow_Signed_Distance__lag_10,-10.0
+PM10_Boundary_Flux__lag_10,0.0
+NO2_Boundary_Velocity__lag_10,0.0
+NO2_ReguFlow_Signed_Distance__lag_10,37.0
+NO2_Boundary_Flux__lag_10,0.0
+SO2_Boundary_Velocity__lag_10,0.0
+SO2_ReguFlow_Signed_Distance__lag_10,43.0
+SO2_Boundary_Flux__lag_10,0.0
+CO_Boundary_Velocity__lag_10,0.0
+CO_ReguFlow_Signed_Distance__lag_10,20.0
+CO_Boundary_Flux__lag_10,0.0
+Ozone_Boundary_Velocity__lag_10,0.0
+Ozone_ReguFlow_Signed_Distance__lag_10,31.0
+Ozone_Boundary_Flux__lag_10,0.0
+ReguFlow_Top2_Dominance_Gap__lag_10,3.0
+ReguFlow_Competition_Flux__lag_10,0.0
+PM2.5 (µg/m³)__lag_11,34.235
+PM10 (µg/m³)__lag_11,59.64
+NO2 (µg/m³)__lag_11,10.13
+SO2 (µg/m³)__lag_11,5.46
+CO (mg/m³)__lag_11,0.6
+Ozone (µg/m³)__lag_11,18.64
+AT (°C)__lag_11,31.16
+RH (%)__lag_11,74.55
+WS (m/s)__lag_11,0.78
+WD (deg)__lag_11,213.38
+RF (mm)__lag_11,0.0
+TOT-RF (mm)__lag_11,0.0
+SR (W/mt2)__lag_11,12.83
+BP (mmHg)__lag_11,759.74
+PM2.5 (µg/m³)__subindex__lag_11,58.0
+PM10 (µg/m³)__subindex__lag_11,61.0
+NO2 (µg/m³)__subindex__lag_11,13.0
+SO2 (µg/m³)__subindex__lag_11,7.0
+CO (mg/m³)__subindex__lag_11,30.0
+Ozone (µg/m³)__subindex__lag_11,19.0
+AQI__lag_11,62.0
+Second_Subindex__lag_11,58.0
+Dominance_Gap__lag_11,3.0
+Valid_Pollutant_Count__lag_11,6.0
+Valid_Subindex_Count__lag_11,6.0
+AQI_Boundary_Distance__lag_11,12.0
+Nearest_AQI_Boundary__lag_11,50.0
+PM2.5_Boundary_Distance__lag_11,9.0
+PM10_Boundary_Distance__lag_11,11.0
+NO2_Boundary_Distance__lag_11,37.0
+SO2_Boundary_Distance__lag_11,43.0
+CO_Boundary_Distance__lag_11,20.0
+Ozone_Boundary_Distance__lag_11,31.0
+CoElevated_Count_Above_50__lag_11,2.0
+CoElevated_Count_Above_100__lag_11,0.0
+Dominant_PM2.5__lag_11,0.0
+Dominant_PM10__lag_11,1.0
+Dominant_NO2__lag_11,0.0
+Dominant_SO2__lag_11,0.0
+Dominant_CO__lag_11,0.0
+Dominant_Ozone__lag_11,0.0
+AQI_Boundary_Velocity__lag_11,0.0
+Dominance_Stability_12h__lag_11,1.0
+PM2.5_Boundary_Velocity__lag_11,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_11,-6.0
+PM2.5_Boundary_Flux__lag_11,0.0
+PM10_Boundary_Velocity__lag_11,0.0
+PM10_ReguFlow_Signed_Distance__lag_11,-10.0
+PM10_Boundary_Flux__lag_11,0.0
+NO2_Boundary_Velocity__lag_11,0.0
+NO2_ReguFlow_Signed_Distance__lag_11,37.0
+NO2_Boundary_Flux__lag_11,0.0
+SO2_Boundary_Velocity__lag_11,0.0
+SO2_ReguFlow_Signed_Distance__lag_11,43.0
+SO2_Boundary_Flux__lag_11,0.0
+CO_Boundary_Velocity__lag_11,0.0
+CO_ReguFlow_Signed_Distance__lag_11,20.0
+CO_Boundary_Flux__lag_11,0.0
+Ozone_Boundary_Velocity__lag_11,0.0
+Ozone_ReguFlow_Signed_Distance__lag_11,31.0
+Ozone_Boundary_Flux__lag_11,0.0
+ReguFlow_Top2_Dominance_Gap__lag_11,3.0
+ReguFlow_Competition_Flux__lag_11,0.0
+PM2.5 (µg/m³)__lag_12,34.24
+PM10 (µg/m³)__lag_12,59.65
+NO2 (µg/m³)__lag_12,10.13
+SO2 (µg/m³)__lag_12,5.46
+CO (mg/m³)__lag_12,0.6
+Ozone (µg/m³)__lag_12,18.62
+AT (°C)__lag_12,31.15
+RH (%)__lag_12,74.58
+WS (m/s)__lag_12,0.78
+WD (deg)__lag_12,213.33
+RF (mm)__lag_12,0.0
+TOT-RF (mm)__lag_12,0.0
+SR (W/mt2)__lag_12,11.465
+BP (mmHg)__lag_12,759.76
+PM2.5 (µg/m³)__subindex__lag_12,58.0
+PM10 (µg/m³)__subindex__lag_12,61.0
+NO2 (µg/m³)__subindex__lag_12,13.0
+SO2 (µg/m³)__subindex__lag_12,7.0
+CO (mg/m³)__subindex__lag_12,30.0
+Ozone (µg/m³)__subindex__lag_12,19.0
+AQI__lag_12,62.0
+Second_Subindex__lag_12,58.0
+Dominance_Gap__lag_12,3.0
+Valid_Pollutant_Count__lag_12,6.0
+Valid_Subindex_Count__lag_12,6.0
+AQI_Boundary_Distance__lag_12,12.0
+Nearest_AQI_Boundary__lag_12,50.0
+PM2.5_Boundary_Distance__lag_12,9.0
+PM10_Boundary_Distance__lag_12,11.0
+NO2_Boundary_Distance__lag_12,37.0
+SO2_Boundary_Distance__lag_12,43.0
+CO_Boundary_Distance__lag_12,20.0
+Ozone_Boundary_Distance__lag_12,31.0
+CoElevated_Count_Above_50__lag_12,2.0
+CoElevated_Count_Above_100__lag_12,0.0
+Dominant_PM2.5__lag_12,0.0
+Dominant_PM10__lag_12,1.0
+Dominant_NO2__lag_12,0.0
+Dominant_SO2__lag_12,0.0
+Dominant_CO__lag_12,0.0
+Dominant_Ozone__lag_12,0.0
+AQI_Boundary_Velocity__lag_12,0.0
+Dominance_Stability_12h__lag_12,1.0
+PM2.5_Boundary_Velocity__lag_12,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_12,-6.0
+PM2.5_Boundary_Flux__lag_12,0.0
+PM10_Boundary_Velocity__lag_12,0.0
+PM10_ReguFlow_Signed_Distance__lag_12,-10.0
+PM10_Boundary_Flux__lag_12,0.0
+NO2_Boundary_Velocity__lag_12,0.0
+NO2_ReguFlow_Signed_Distance__lag_12,37.0
+NO2_Boundary_Flux__lag_12,0.0
+SO2_Boundary_Velocity__lag_12,0.0
+SO2_ReguFlow_Signed_Distance__lag_12,43.0
+SO2_Boundary_Flux__lag_12,0.0
+CO_Boundary_Velocity__lag_12,0.0
+CO_ReguFlow_Signed_Distance__lag_12,20.0
+CO_Boundary_Flux__lag_12,0.0
+Ozone_Boundary_Velocity__lag_12,0.0
+Ozone_ReguFlow_Signed_Distance__lag_12,31.0
+Ozone_Boundary_Flux__lag_12,0.0
+ReguFlow_Top2_Dominance_Gap__lag_12,3.0
+ReguFlow_Competition_Flux__lag_12,0.0
+PM2.5 (µg/m³)__lag_13,34.26
+PM10 (µg/m³)__lag_13,59.71
+NO2 (µg/m³)__lag_13,10.13
+SO2 (µg/m³)__lag_13,5.46
+CO (mg/m³)__lag_13,0.6
+Ozone (µg/m³)__lag_13,18.6
+AT (°C)__lag_13,31.15
+RH (%)__lag_13,74.6
+WS (m/s)__lag_13,0.78
+WD (deg)__lag_13,213.16
+RF (mm)__lag_13,0.0
+TOT-RF (mm)__lag_13,0.0
+SR (W/mt2)__lag_13,10.545
+BP (mmHg)__lag_13,759.77
+PM2.5 (µg/m³)__subindex__lag_13,58.0
+PM10 (µg/m³)__subindex__lag_13,61.0
+NO2 (µg/m³)__subindex__lag_13,13.0
+SO2 (µg/m³)__subindex__lag_13,7.0
+CO (mg/m³)__subindex__lag_13,30.0
+Ozone (µg/m³)__subindex__lag_13,19.0
+AQI__lag_13,62.0
+Second_Subindex__lag_13,58.0
+Dominance_Gap__lag_13,3.0
+Valid_Pollutant_Count__lag_13,6.0
+Valid_Subindex_Count__lag_13,6.0
+AQI_Boundary_Distance__lag_13,12.0
+Nearest_AQI_Boundary__lag_13,50.0
+PM2.5_Boundary_Distance__lag_13,9.0
+PM10_Boundary_Distance__lag_13,11.0
+NO2_Boundary_Distance__lag_13,37.0
+SO2_Boundary_Distance__lag_13,43.0
+CO_Boundary_Distance__lag_13,20.0
+Ozone_Boundary_Distance__lag_13,31.0
+CoElevated_Count_Above_50__lag_13,2.0
+CoElevated_Count_Above_100__lag_13,0.0
+Dominant_PM2.5__lag_13,0.0
+Dominant_PM10__lag_13,1.0
+Dominant_NO2__lag_13,0.0
+Dominant_SO2__lag_13,0.0
+Dominant_CO__lag_13,0.0
+Dominant_Ozone__lag_13,0.0
+AQI_Boundary_Velocity__lag_13,0.0
+Dominance_Stability_12h__lag_13,1.0
+PM2.5_Boundary_Velocity__lag_13,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_13,-6.0
+PM2.5_Boundary_Flux__lag_13,0.0
+PM10_Boundary_Velocity__lag_13,0.0
+PM10_ReguFlow_Signed_Distance__lag_13,-10.0
+PM10_Boundary_Flux__lag_13,0.0
+NO2_Boundary_Velocity__lag_13,0.0
+NO2_ReguFlow_Signed_Distance__lag_13,37.0
+NO2_Boundary_Flux__lag_13,0.0
+SO2_Boundary_Velocity__lag_13,0.0
+SO2_ReguFlow_Signed_Distance__lag_13,43.0
+SO2_Boundary_Flux__lag_13,0.0
+CO_Boundary_Velocity__lag_13,0.0
+CO_ReguFlow_Signed_Distance__lag_13,20.0
+CO_Boundary_Flux__lag_13,0.0
+Ozone_Boundary_Velocity__lag_13,0.0
+Ozone_ReguFlow_Signed_Distance__lag_13,31.0
+Ozone_Boundary_Flux__lag_13,0.0
+ReguFlow_Top2_Dominance_Gap__lag_13,3.0
+ReguFlow_Competition_Flux__lag_13,0.0
+PM2.5 (µg/m³)__lag_14,34.26
+PM10 (µg/m³)__lag_14,59.73
+NO2 (µg/m³)__lag_14,10.13
+SO2 (µg/m³)__lag_14,5.46
+CO (mg/m³)__lag_14,0.6
+Ozone (µg/m³)__lag_14,18.6
+AT (°C)__lag_14,31.15
+RH (%)__lag_14,74.62
+WS (m/s)__lag_14,0.78
+WD (deg)__lag_14,213.01999999999998
+RF (mm)__lag_14,0.0
+TOT-RF (mm)__lag_14,0.0
+SR (W/mt2)__lag_14,9.805
+BP (mmHg)__lag_14,759.765
+PM2.5 (µg/m³)__subindex__lag_14,58.0
+PM10 (µg/m³)__subindex__lag_14,61.0
+NO2 (µg/m³)__subindex__lag_14,13.0
+SO2 (µg/m³)__subindex__lag_14,7.0
+CO (mg/m³)__subindex__lag_14,30.0
+Ozone (µg/m³)__subindex__lag_14,19.0
+AQI__lag_14,62.0
+Second_Subindex__lag_14,58.0
+Dominance_Gap__lag_14,3.0
+Valid_Pollutant_Count__lag_14,6.0
+Valid_Subindex_Count__lag_14,6.0
+AQI_Boundary_Distance__lag_14,12.0
+Nearest_AQI_Boundary__lag_14,50.0
+PM2.5_Boundary_Distance__lag_14,9.0
+PM10_Boundary_Distance__lag_14,11.0
+NO2_Boundary_Distance__lag_14,37.0
+SO2_Boundary_Distance__lag_14,43.0
+CO_Boundary_Distance__lag_14,20.0
+Ozone_Boundary_Distance__lag_14,31.0
+CoElevated_Count_Above_50__lag_14,2.0
+CoElevated_Count_Above_100__lag_14,0.0
+Dominant_PM2.5__lag_14,0.0
+Dominant_PM10__lag_14,1.0
+Dominant_NO2__lag_14,0.0
+Dominant_SO2__lag_14,0.0
+Dominant_CO__lag_14,0.0
+Dominant_Ozone__lag_14,0.0
+AQI_Boundary_Velocity__lag_14,0.0
+Dominance_Stability_12h__lag_14,1.0
+PM2.5_Boundary_Velocity__lag_14,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_14,-6.0
+PM2.5_Boundary_Flux__lag_14,0.0
+PM10_Boundary_Velocity__lag_14,0.0
+PM10_ReguFlow_Signed_Distance__lag_14,-10.0
+PM10_Boundary_Flux__lag_14,0.0
+NO2_Boundary_Velocity__lag_14,0.0
+NO2_ReguFlow_Signed_Distance__lag_14,37.0
+NO2_Boundary_Flux__lag_14,0.0
+SO2_Boundary_Velocity__lag_14,0.0
+SO2_ReguFlow_Signed_Distance__lag_14,43.0
+SO2_Boundary_Flux__lag_14,0.0
+CO_Boundary_Velocity__lag_14,0.0
+CO_ReguFlow_Signed_Distance__lag_14,20.0
+CO_Boundary_Flux__lag_14,0.0
+Ozone_Boundary_Velocity__lag_14,0.0
+Ozone_ReguFlow_Signed_Distance__lag_14,31.0
+Ozone_Boundary_Flux__lag_14,0.0
+ReguFlow_Top2_Dominance_Gap__lag_14,3.0
+ReguFlow_Competition_Flux__lag_14,0.0
+PM2.5 (µg/m³)__lag_15,34.26
+PM10 (µg/m³)__lag_15,59.73
+NO2 (µg/m³)__lag_15,10.13
+SO2 (µg/m³)__lag_15,5.46
+CO (mg/m³)__lag_15,0.6
+Ozone (µg/m³)__lag_15,18.62
+AT (°C)__lag_15,31.15
+RH (%)__lag_15,74.64
+WS (m/s)__lag_15,0.78
+WD (deg)__lag_15,213.095
+RF (mm)__lag_15,0.0
+TOT-RF (mm)__lag_15,0.0
+SR (W/mt2)__lag_15,9.57
+BP (mmHg)__lag_15,759.735
+PM2.5 (µg/m³)__subindex__lag_15,58.0
+PM10 (µg/m³)__subindex__lag_15,61.0
+NO2 (µg/m³)__subindex__lag_15,13.0
+SO2 (µg/m³)__subindex__lag_15,7.0
+CO (mg/m³)__subindex__lag_15,30.0
+Ozone (µg/m³)__subindex__lag_15,19.0
+AQI__lag_15,62.0
+Second_Subindex__lag_15,58.0
+Dominance_Gap__lag_15,3.0
+Valid_Pollutant_Count__lag_15,6.0
+Valid_Subindex_Count__lag_15,6.0
+AQI_Boundary_Distance__lag_15,12.0
+Nearest_AQI_Boundary__lag_15,50.0
+PM2.5_Boundary_Distance__lag_15,9.0
+PM10_Boundary_Distance__lag_15,11.0
+NO2_Boundary_Distance__lag_15,37.0
+SO2_Boundary_Distance__lag_15,43.0
+CO_Boundary_Distance__lag_15,20.0
+Ozone_Boundary_Distance__lag_15,31.0
+CoElevated_Count_Above_50__lag_15,2.0
+CoElevated_Count_Above_100__lag_15,0.0
+Dominant_PM2.5__lag_15,0.0
+Dominant_PM10__lag_15,1.0
+Dominant_NO2__lag_15,0.0
+Dominant_SO2__lag_15,0.0
+Dominant_CO__lag_15,0.0
+Dominant_Ozone__lag_15,0.0
+AQI_Boundary_Velocity__lag_15,0.0
+Dominance_Stability_12h__lag_15,1.0
+PM2.5_Boundary_Velocity__lag_15,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_15,-6.0
+PM2.5_Boundary_Flux__lag_15,0.0
+PM10_Boundary_Velocity__lag_15,0.0
+PM10_ReguFlow_Signed_Distance__lag_15,-10.0
+PM10_Boundary_Flux__lag_15,0.0
+NO2_Boundary_Velocity__lag_15,0.0
+NO2_ReguFlow_Signed_Distance__lag_15,37.0
+NO2_Boundary_Flux__lag_15,0.0
+SO2_Boundary_Velocity__lag_15,0.0
+SO2_ReguFlow_Signed_Distance__lag_15,43.0
+SO2_Boundary_Flux__lag_15,0.0
+CO_Boundary_Velocity__lag_15,0.0
+CO_ReguFlow_Signed_Distance__lag_15,20.0
+CO_Boundary_Flux__lag_15,0.0
+Ozone_Boundary_Velocity__lag_15,0.0
+Ozone_ReguFlow_Signed_Distance__lag_15,31.0
+Ozone_Boundary_Flux__lag_15,0.0
+ReguFlow_Top2_Dominance_Gap__lag_15,3.0
+ReguFlow_Competition_Flux__lag_15,0.0
+PM2.5 (µg/m³)__lag_16,34.265
+PM10 (µg/m³)__lag_16,59.724999999999994
+NO2 (µg/m³)__lag_16,10.13
+SO2 (µg/m³)__lag_16,5.46
+CO (mg/m³)__lag_16,0.6
+Ozone (µg/m³)__lag_16,18.66
+AT (°C)__lag_16,31.16
+RH (%)__lag_16,74.62
+WS (m/s)__lag_16,0.78
+WD (deg)__lag_16,212.97
+RF (mm)__lag_16,0.0
+TOT-RF (mm)__lag_16,0.0
+SR (W/mt2)__lag_16,9.63
+BP (mmHg)__lag_16,759.7
+PM2.5 (µg/m³)__subindex__lag_16,58.0
+PM10 (µg/m³)__subindex__lag_16,61.0
+NO2 (µg/m³)__subindex__lag_16,13.0
+SO2 (µg/m³)__subindex__lag_16,7.0
+CO (mg/m³)__subindex__lag_16,30.0
+Ozone (µg/m³)__subindex__lag_16,19.0
+AQI__lag_16,62.0
+Second_Subindex__lag_16,58.0
+Dominance_Gap__lag_16,3.0
+Valid_Pollutant_Count__lag_16,6.0
+Valid_Subindex_Count__lag_16,6.0
+AQI_Boundary_Distance__lag_16,12.0
+Nearest_AQI_Boundary__lag_16,50.0
+PM2.5_Boundary_Distance__lag_16,9.0
+PM10_Boundary_Distance__lag_16,11.0
+NO2_Boundary_Distance__lag_16,37.0
+SO2_Boundary_Distance__lag_16,43.0
+CO_Boundary_Distance__lag_16,20.0
+Ozone_Boundary_Distance__lag_16,31.0
+CoElevated_Count_Above_50__lag_16,2.0
+CoElevated_Count_Above_100__lag_16,0.0
+Dominant_PM2.5__lag_16,0.0
+Dominant_PM10__lag_16,1.0
+Dominant_NO2__lag_16,0.0
+Dominant_SO2__lag_16,0.0
+Dominant_CO__lag_16,0.0
+Dominant_Ozone__lag_16,0.0
+AQI_Boundary_Velocity__lag_16,0.0
+Dominance_Stability_12h__lag_16,1.0
+PM2.5_Boundary_Velocity__lag_16,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_16,-6.0
+PM2.5_Boundary_Flux__lag_16,0.0
+PM10_Boundary_Velocity__lag_16,0.0
+PM10_ReguFlow_Signed_Distance__lag_16,-10.0
+PM10_Boundary_Flux__lag_16,0.0
+NO2_Boundary_Velocity__lag_16,0.0
+NO2_ReguFlow_Signed_Distance__lag_16,37.0
+NO2_Boundary_Flux__lag_16,0.0
+SO2_Boundary_Velocity__lag_16,0.0
+SO2_ReguFlow_Signed_Distance__lag_16,43.0
+SO2_Boundary_Flux__lag_16,0.0
+CO_Boundary_Velocity__lag_16,0.0
+CO_ReguFlow_Signed_Distance__lag_16,20.0
+CO_Boundary_Flux__lag_16,0.0
+Ozone_Boundary_Velocity__lag_16,0.0
+Ozone_ReguFlow_Signed_Distance__lag_16,31.0
+Ozone_Boundary_Flux__lag_16,0.0
+ReguFlow_Top2_Dominance_Gap__lag_16,3.0
+ReguFlow_Competition_Flux__lag_16,0.0
+PM2.5 (µg/m³)__lag_17,34.26
+PM10 (µg/m³)__lag_17,59.72
+NO2 (µg/m³)__lag_17,10.13
+SO2 (µg/m³)__lag_17,5.46
+CO (mg/m³)__lag_17,0.6
+Ozone (µg/m³)__lag_17,18.68
+AT (°C)__lag_17,31.16
+RH (%)__lag_17,74.54
+WS (m/s)__lag_17,0.78
+WD (deg)__lag_17,212.945
+RF (mm)__lag_17,0.0
+TOT-RF (mm)__lag_17,0.0
+SR (W/mt2)__lag_17,9.855
+BP (mmHg)__lag_17,759.585
+PM2.5 (µg/m³)__subindex__lag_17,58.0
+PM10 (µg/m³)__subindex__lag_17,61.0
+NO2 (µg/m³)__subindex__lag_17,13.0
+SO2 (µg/m³)__subindex__lag_17,7.0
+CO (mg/m³)__subindex__lag_17,30.0
+Ozone (µg/m³)__subindex__lag_17,19.0
+AQI__lag_17,62.0
+Second_Subindex__lag_17,58.0
+Dominance_Gap__lag_17,3.0
+Valid_Pollutant_Count__lag_17,6.0
+Valid_Subindex_Count__lag_17,6.0
+AQI_Boundary_Distance__lag_17,12.0
+Nearest_AQI_Boundary__lag_17,50.0
+PM2.5_Boundary_Distance__lag_17,9.0
+PM10_Boundary_Distance__lag_17,11.0
+NO2_Boundary_Distance__lag_17,37.0
+SO2_Boundary_Distance__lag_17,43.0
+CO_Boundary_Distance__lag_17,20.0
+Ozone_Boundary_Distance__lag_17,31.0
+CoElevated_Count_Above_50__lag_17,2.0
+CoElevated_Count_Above_100__lag_17,0.0
+Dominant_PM2.5__lag_17,0.0
+Dominant_PM10__lag_17,1.0
+Dominant_NO2__lag_17,0.0
+Dominant_SO2__lag_17,0.0
+Dominant_CO__lag_17,0.0
+Dominant_Ozone__lag_17,0.0
+AQI_Boundary_Velocity__lag_17,0.0
+Dominance_Stability_12h__lag_17,1.0
+PM2.5_Boundary_Velocity__lag_17,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_17,-6.0
+PM2.5_Boundary_Flux__lag_17,0.0
+PM10_Boundary_Velocity__lag_17,0.0
+PM10_ReguFlow_Signed_Distance__lag_17,-10.0
+PM10_Boundary_Flux__lag_17,0.0
+NO2_Boundary_Velocity__lag_17,0.0
+NO2_ReguFlow_Signed_Distance__lag_17,37.0
+NO2_Boundary_Flux__lag_17,0.0
+SO2_Boundary_Velocity__lag_17,0.0
+SO2_ReguFlow_Signed_Distance__lag_17,43.0
+SO2_Boundary_Flux__lag_17,0.0
+CO_Boundary_Velocity__lag_17,0.0
+CO_ReguFlow_Signed_Distance__lag_17,20.0
+CO_Boundary_Flux__lag_17,0.0
+Ozone_Boundary_Velocity__lag_17,0.0
+Ozone_ReguFlow_Signed_Distance__lag_17,31.0
+Ozone_Boundary_Flux__lag_17,0.0
+ReguFlow_Top2_Dominance_Gap__lag_17,3.0
+ReguFlow_Competition_Flux__lag_17,0.0
+PM2.5 (µg/m³)__lag_18,34.26
+PM10 (µg/m³)__lag_18,59.73
+NO2 (µg/m³)__lag_18,10.13
+SO2 (µg/m³)__lag_18,5.46
+CO (mg/m³)__lag_18,0.6
+Ozone (µg/m³)__lag_18,18.7
+AT (°C)__lag_18,31.18
+RH (%)__lag_18,74.43
+WS (m/s)__lag_18,0.78
+WD (deg)__lag_18,212.9
+RF (mm)__lag_18,0.0
+TOT-RF (mm)__lag_18,0.0
+SR (W/mt2)__lag_18,10.25
+BP (mmHg)__lag_18,759.52
+PM2.5 (µg/m³)__subindex__lag_18,58.0
+PM10 (µg/m³)__subindex__lag_18,61.0
+NO2 (µg/m³)__subindex__lag_18,13.0
+SO2 (µg/m³)__subindex__lag_18,7.0
+CO (mg/m³)__subindex__lag_18,30.0
+Ozone (µg/m³)__subindex__lag_18,19.0
+AQI__lag_18,62.0
+Second_Subindex__lag_18,58.0
+Dominance_Gap__lag_18,3.0
+Valid_Pollutant_Count__lag_18,6.0
+Valid_Subindex_Count__lag_18,6.0
+AQI_Boundary_Distance__lag_18,12.0
+Nearest_AQI_Boundary__lag_18,50.0
+PM2.5_Boundary_Distance__lag_18,9.0
+PM10_Boundary_Distance__lag_18,11.0
+NO2_Boundary_Distance__lag_18,37.0
+SO2_Boundary_Distance__lag_18,43.0
+CO_Boundary_Distance__lag_18,20.0
+Ozone_Boundary_Distance__lag_18,31.0
+CoElevated_Count_Above_50__lag_18,2.0
+CoElevated_Count_Above_100__lag_18,0.0
+Dominant_PM2.5__lag_18,0.0
+Dominant_PM10__lag_18,1.0
+Dominant_NO2__lag_18,0.0
+Dominant_SO2__lag_18,0.0
+Dominant_CO__lag_18,0.0
+Dominant_Ozone__lag_18,0.0
+AQI_Boundary_Velocity__lag_18,0.0
+Dominance_Stability_12h__lag_18,1.0
+PM2.5_Boundary_Velocity__lag_18,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_18,-6.0
+PM2.5_Boundary_Flux__lag_18,0.0
+PM10_Boundary_Velocity__lag_18,0.0
+PM10_ReguFlow_Signed_Distance__lag_18,-10.0
+PM10_Boundary_Flux__lag_18,0.0
+NO2_Boundary_Velocity__lag_18,0.0
+NO2_ReguFlow_Signed_Distance__lag_18,37.0
+NO2_Boundary_Flux__lag_18,0.0
+SO2_Boundary_Velocity__lag_18,0.0
+SO2_ReguFlow_Signed_Distance__lag_18,43.0
+SO2_Boundary_Flux__lag_18,0.0
+CO_Boundary_Velocity__lag_18,0.0
+CO_ReguFlow_Signed_Distance__lag_18,20.0
+CO_Boundary_Flux__lag_18,0.0
+Ozone_Boundary_Velocity__lag_18,0.0
+Ozone_ReguFlow_Signed_Distance__lag_18,31.0
+Ozone_Boundary_Flux__lag_18,0.0
+ReguFlow_Top2_Dominance_Gap__lag_18,3.0
+ReguFlow_Competition_Flux__lag_18,0.0
+PM2.5 (µg/m³)__lag_19,34.26
+PM10 (µg/m³)__lag_19,59.72
+NO2 (µg/m³)__lag_19,10.13
+SO2 (µg/m³)__lag_19,5.46
+CO (mg/m³)__lag_19,0.6
+Ozone (µg/m³)__lag_19,18.71
+AT (°C)__lag_19,31.2
+RH (%)__lag_19,74.3
+WS (m/s)__lag_19,0.78
+WD (deg)__lag_19,212.95999999999998
+RF (mm)__lag_19,0.0
+TOT-RF (mm)__lag_19,0.0
+SR (W/mt2)__lag_19,10.62
+BP (mmHg)__lag_19,759.49
+PM2.5 (µg/m³)__subindex__lag_19,58.0
+PM10 (µg/m³)__subindex__lag_19,61.0
+NO2 (µg/m³)__subindex__lag_19,13.0
+SO2 (µg/m³)__subindex__lag_19,7.0
+CO (mg/m³)__subindex__lag_19,30.0
+Ozone (µg/m³)__subindex__lag_19,19.0
+AQI__lag_19,62.0
+Second_Subindex__lag_19,58.0
+Dominance_Gap__lag_19,3.0
+Valid_Pollutant_Count__lag_19,6.0
+Valid_Subindex_Count__lag_19,6.0
+AQI_Boundary_Distance__lag_19,12.0
+Nearest_AQI_Boundary__lag_19,50.0
+PM2.5_Boundary_Distance__lag_19,9.0
+PM10_Boundary_Distance__lag_19,11.0
+NO2_Boundary_Distance__lag_19,37.0
+SO2_Boundary_Distance__lag_19,43.0
+CO_Boundary_Distance__lag_19,20.0
+Ozone_Boundary_Distance__lag_19,31.0
+CoElevated_Count_Above_50__lag_19,2.0
+CoElevated_Count_Above_100__lag_19,0.0
+Dominant_PM2.5__lag_19,0.0
+Dominant_PM10__lag_19,1.0
+Dominant_NO2__lag_19,0.0
+Dominant_SO2__lag_19,0.0
+Dominant_CO__lag_19,0.0
+Dominant_Ozone__lag_19,0.0
+AQI_Boundary_Velocity__lag_19,0.0
+Dominance_Stability_12h__lag_19,1.0
+PM2.5_Boundary_Velocity__lag_19,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_19,-6.0
+PM2.5_Boundary_Flux__lag_19,0.0
+PM10_Boundary_Velocity__lag_19,0.0
+PM10_ReguFlow_Signed_Distance__lag_19,-10.0
+PM10_Boundary_Flux__lag_19,0.0
+NO2_Boundary_Velocity__lag_19,0.0
+NO2_ReguFlow_Signed_Distance__lag_19,37.0
+NO2_Boundary_Flux__lag_19,0.0
+SO2_Boundary_Velocity__lag_19,0.0
+SO2_ReguFlow_Signed_Distance__lag_19,43.0
+SO2_Boundary_Flux__lag_19,0.0
+CO_Boundary_Velocity__lag_19,0.0
+CO_ReguFlow_Signed_Distance__lag_19,20.0
+CO_Boundary_Flux__lag_19,0.0
+Ozone_Boundary_Velocity__lag_19,0.0
+Ozone_ReguFlow_Signed_Distance__lag_19,31.0
+Ozone_Boundary_Flux__lag_19,0.0
+ReguFlow_Top2_Dominance_Gap__lag_19,3.0
+ReguFlow_Competition_Flux__lag_19,0.0
+PM2.5 (µg/m³)__lag_20,34.26
+PM10 (µg/m³)__lag_20,59.73
+NO2 (µg/m³)__lag_20,10.13
+SO2 (µg/m³)__lag_20,5.46
+CO (mg/m³)__lag_20,0.6
+Ozone (µg/m³)__lag_20,18.77
+AT (°C)__lag_20,31.21
+RH (%)__lag_20,74.1
+WS (m/s)__lag_20,0.78
+WD (deg)__lag_20,213.03
+RF (mm)__lag_20,0.0
+TOT-RF (mm)__lag_20,0.0
+SR (W/mt2)__lag_20,11.07
+BP (mmHg)__lag_20,759.4
+PM2.5 (µg/m³)__subindex__lag_20,58.0
+PM10 (µg/m³)__subindex__lag_20,61.0
+NO2 (µg/m³)__subindex__lag_20,13.0
+SO2 (µg/m³)__subindex__lag_20,7.0
+CO (mg/m³)__subindex__lag_20,30.0
+Ozone (µg/m³)__subindex__lag_20,19.0
+AQI__lag_20,62.0
+Second_Subindex__lag_20,58.0
+Dominance_Gap__lag_20,3.0
+Valid_Pollutant_Count__lag_20,6.0
+Valid_Subindex_Count__lag_20,6.0
+AQI_Boundary_Distance__lag_20,12.0
+Nearest_AQI_Boundary__lag_20,50.0
+PM2.5_Boundary_Distance__lag_20,9.0
+PM10_Boundary_Distance__lag_20,11.0
+NO2_Boundary_Distance__lag_20,37.0
+SO2_Boundary_Distance__lag_20,43.0
+CO_Boundary_Distance__lag_20,20.0
+Ozone_Boundary_Distance__lag_20,31.0
+CoElevated_Count_Above_50__lag_20,2.0
+CoElevated_Count_Above_100__lag_20,0.0
+Dominant_PM2.5__lag_20,0.0
+Dominant_PM10__lag_20,1.0
+Dominant_NO2__lag_20,0.0
+Dominant_SO2__lag_20,0.0
+Dominant_CO__lag_20,0.0
+Dominant_Ozone__lag_20,0.0
+AQI_Boundary_Velocity__lag_20,0.0
+Dominance_Stability_12h__lag_20,1.0
+PM2.5_Boundary_Velocity__lag_20,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_20,-6.0
+PM2.5_Boundary_Flux__lag_20,0.0
+PM10_Boundary_Velocity__lag_20,0.0
+PM10_ReguFlow_Signed_Distance__lag_20,-10.0
+PM10_Boundary_Flux__lag_20,0.0
+NO2_Boundary_Velocity__lag_20,0.0
+NO2_ReguFlow_Signed_Distance__lag_20,37.0
+NO2_Boundary_Flux__lag_20,0.0
+SO2_Boundary_Velocity__lag_20,0.0
+SO2_ReguFlow_Signed_Distance__lag_20,43.0
+SO2_Boundary_Flux__lag_20,0.0
+CO_Boundary_Velocity__lag_20,0.0
+CO_ReguFlow_Signed_Distance__lag_20,20.0
+CO_Boundary_Flux__lag_20,0.0
+Ozone_Boundary_Velocity__lag_20,0.0
+Ozone_ReguFlow_Signed_Distance__lag_20,31.0
+Ozone_Boundary_Flux__lag_20,0.0
+ReguFlow_Top2_Dominance_Gap__lag_20,3.0
+ReguFlow_Competition_Flux__lag_20,0.0
+PM2.5 (µg/m³)__lag_21,34.26
+PM10 (µg/m³)__lag_21,59.7
+NO2 (µg/m³)__lag_21,10.13
+SO2 (µg/m³)__lag_21,5.46
+CO (mg/m³)__lag_21,0.6
+Ozone (µg/m³)__lag_21,18.79
+AT (°C)__lag_21,31.22
+RH (%)__lag_21,73.94
+WS (m/s)__lag_21,0.78
+WD (deg)__lag_21,213.19
+RF (mm)__lag_21,0.0
+TOT-RF (mm)__lag_21,0.0
+SR (W/mt2)__lag_21,11.555
+BP (mmHg)__lag_21,759.38
+PM2.5 (µg/m³)__subindex__lag_21,58.0
+PM10 (µg/m³)__subindex__lag_21,61.0
+NO2 (µg/m³)__subindex__lag_21,13.0
+SO2 (µg/m³)__subindex__lag_21,7.0
+CO (mg/m³)__subindex__lag_21,30.0
+Ozone (µg/m³)__subindex__lag_21,19.0
+AQI__lag_21,62.0
+Second_Subindex__lag_21,58.0
+Dominance_Gap__lag_21,3.0
+Valid_Pollutant_Count__lag_21,6.0
+Valid_Subindex_Count__lag_21,6.0
+AQI_Boundary_Distance__lag_21,12.0
+Nearest_AQI_Boundary__lag_21,50.0
+PM2.5_Boundary_Distance__lag_21,9.0
+PM10_Boundary_Distance__lag_21,11.0
+NO2_Boundary_Distance__lag_21,37.0
+SO2_Boundary_Distance__lag_21,43.0
+CO_Boundary_Distance__lag_21,20.0
+Ozone_Boundary_Distance__lag_21,31.0
+CoElevated_Count_Above_50__lag_21,2.0
+CoElevated_Count_Above_100__lag_21,0.0
+Dominant_PM2.5__lag_21,0.0
+Dominant_PM10__lag_21,1.0
+Dominant_NO2__lag_21,0.0
+Dominant_SO2__lag_21,0.0
+Dominant_CO__lag_21,0.0
+Dominant_Ozone__lag_21,0.0
+AQI_Boundary_Velocity__lag_21,0.0
+Dominance_Stability_12h__lag_21,1.0
+PM2.5_Boundary_Velocity__lag_21,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_21,-6.0
+PM2.5_Boundary_Flux__lag_21,0.0
+PM10_Boundary_Velocity__lag_21,0.0
+PM10_ReguFlow_Signed_Distance__lag_21,-10.0
+PM10_Boundary_Flux__lag_21,0.0
+NO2_Boundary_Velocity__lag_21,0.0
+NO2_ReguFlow_Signed_Distance__lag_21,37.0
+NO2_Boundary_Flux__lag_21,0.0
+SO2_Boundary_Velocity__lag_21,0.0
+SO2_ReguFlow_Signed_Distance__lag_21,43.0
+SO2_Boundary_Flux__lag_21,0.0
+CO_Boundary_Velocity__lag_21,0.0
+CO_ReguFlow_Signed_Distance__lag_21,20.0
+CO_Boundary_Flux__lag_21,0.0
+Ozone_Boundary_Velocity__lag_21,0.0
+Ozone_ReguFlow_Signed_Distance__lag_21,31.0
+Ozone_Boundary_Flux__lag_21,0.0
+ReguFlow_Top2_Dominance_Gap__lag_21,3.0
+ReguFlow_Competition_Flux__lag_21,0.0
+PM2.5 (µg/m³)__lag_22,34.25
+PM10 (µg/m³)__lag_22,59.65
+NO2 (µg/m³)__lag_22,10.13
+SO2 (µg/m³)__lag_22,5.46
+CO (mg/m³)__lag_22,0.6
+Ozone (µg/m³)__lag_22,18.78
+AT (°C)__lag_22,31.23
+RH (%)__lag_22,73.82
+WS (m/s)__lag_22,0.78
+WD (deg)__lag_22,213.33
+RF (mm)__lag_22,0.0
+TOT-RF (mm)__lag_22,0.0
+SR (W/mt2)__lag_22,12.56
+BP (mmHg)__lag_22,759.37
+PM2.5 (µg/m³)__subindex__lag_22,58.0
+PM10 (µg/m³)__subindex__lag_22,61.0
+NO2 (µg/m³)__subindex__lag_22,13.0
+SO2 (µg/m³)__subindex__lag_22,7.0
+CO (mg/m³)__subindex__lag_22,30.0
+Ozone (µg/m³)__subindex__lag_22,19.0
+AQI__lag_22,62.0
+Second_Subindex__lag_22,58.0
+Dominance_Gap__lag_22,3.0
+Valid_Pollutant_Count__lag_22,6.0
+Valid_Subindex_Count__lag_22,6.0
+AQI_Boundary_Distance__lag_22,12.0
+Nearest_AQI_Boundary__lag_22,50.0
+PM2.5_Boundary_Distance__lag_22,9.0
+PM10_Boundary_Distance__lag_22,11.0
+NO2_Boundary_Distance__lag_22,37.0
+SO2_Boundary_Distance__lag_22,43.0
+CO_Boundary_Distance__lag_22,20.0
+Ozone_Boundary_Distance__lag_22,31.0
+CoElevated_Count_Above_50__lag_22,2.0
+CoElevated_Count_Above_100__lag_22,0.0
+Dominant_PM2.5__lag_22,0.0
+Dominant_PM10__lag_22,1.0
+Dominant_NO2__lag_22,0.0
+Dominant_SO2__lag_22,0.0
+Dominant_CO__lag_22,0.0
+Dominant_Ozone__lag_22,0.0
+AQI_Boundary_Velocity__lag_22,0.0
+Dominance_Stability_12h__lag_22,1.0
+PM2.5_Boundary_Velocity__lag_22,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_22,-6.0
+PM2.5_Boundary_Flux__lag_22,0.0
+PM10_Boundary_Velocity__lag_22,0.0
+PM10_ReguFlow_Signed_Distance__lag_22,-10.0
+PM10_Boundary_Flux__lag_22,0.0
+NO2_Boundary_Velocity__lag_22,0.0
+NO2_ReguFlow_Signed_Distance__lag_22,37.0
+NO2_Boundary_Flux__lag_22,0.0
+SO2_Boundary_Velocity__lag_22,0.0
+SO2_ReguFlow_Signed_Distance__lag_22,43.0
+SO2_Boundary_Flux__lag_22,0.0
+CO_Boundary_Velocity__lag_22,0.0
+CO_ReguFlow_Signed_Distance__lag_22,20.0
+CO_Boundary_Flux__lag_22,0.0
+Ozone_Boundary_Velocity__lag_22,0.0
+Ozone_ReguFlow_Signed_Distance__lag_22,31.0
+Ozone_Boundary_Flux__lag_22,0.0
+ReguFlow_Top2_Dominance_Gap__lag_22,3.0
+ReguFlow_Competition_Flux__lag_22,0.0
+PM2.5 (µg/m³)__lag_23,34.25
+PM10 (µg/m³)__lag_23,59.625
+NO2 (µg/m³)__lag_23,10.13
+SO2 (µg/m³)__lag_23,5.46
+CO (mg/m³)__lag_23,0.6
+Ozone (µg/m³)__lag_23,18.8
+AT (°C)__lag_23,31.24
+RH (%)__lag_23,73.74
+WS (m/s)__lag_23,0.78
+WD (deg)__lag_23,213.22
+RF (mm)__lag_23,0.0
+TOT-RF (mm)__lag_23,0.0
+SR (W/mt2)__lag_23,13.565000000000001
+BP (mmHg)__lag_23,759.395
+PM2.5 (µg/m³)__subindex__lag_23,58.0
+PM10 (µg/m³)__subindex__lag_23,61.0
+NO2 (µg/m³)__subindex__lag_23,13.0
+SO2 (µg/m³)__subindex__lag_23,7.0
+CO (mg/m³)__subindex__lag_23,30.0
+Ozone (µg/m³)__subindex__lag_23,19.0
+AQI__lag_23,62.0
+Second_Subindex__lag_23,58.0
+Dominance_Gap__lag_23,3.0
+Valid_Pollutant_Count__lag_23,6.0
+Valid_Subindex_Count__lag_23,6.0
+AQI_Boundary_Distance__lag_23,12.0
+Nearest_AQI_Boundary__lag_23,50.0
+PM2.5_Boundary_Distance__lag_23,9.0
+PM10_Boundary_Distance__lag_23,11.0
+NO2_Boundary_Distance__lag_23,37.0
+SO2_Boundary_Distance__lag_23,43.0
+CO_Boundary_Distance__lag_23,20.0
+Ozone_Boundary_Distance__lag_23,31.0
+CoElevated_Count_Above_50__lag_23,2.0
+CoElevated_Count_Above_100__lag_23,0.0
+Dominant_PM2.5__lag_23,0.0
+Dominant_PM10__lag_23,1.0
+Dominant_NO2__lag_23,0.0
+Dominant_SO2__lag_23,0.0
+Dominant_CO__lag_23,0.0
+Dominant_Ozone__lag_23,0.0
+AQI_Boundary_Velocity__lag_23,0.0
+Dominance_Stability_12h__lag_23,1.0
+PM2.5_Boundary_Velocity__lag_23,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_23,-6.0
+PM2.5_Boundary_Flux__lag_23,0.0
+PM10_Boundary_Velocity__lag_23,0.0
+PM10_ReguFlow_Signed_Distance__lag_23,-10.0
+PM10_Boundary_Flux__lag_23,0.0
+NO2_Boundary_Velocity__lag_23,0.0
+NO2_ReguFlow_Signed_Distance__lag_23,37.0
+NO2_Boundary_Flux__lag_23,0.0
+SO2_Boundary_Velocity__lag_23,0.0
+SO2_ReguFlow_Signed_Distance__lag_23,43.0
+SO2_Boundary_Flux__lag_23,0.0
+CO_Boundary_Velocity__lag_23,0.0
+CO_ReguFlow_Signed_Distance__lag_23,20.0
+CO_Boundary_Flux__lag_23,0.0
+Ozone_Boundary_Velocity__lag_23,0.0
+Ozone_ReguFlow_Signed_Distance__lag_23,31.0
+Ozone_Boundary_Flux__lag_23,0.0
+ReguFlow_Top2_Dominance_Gap__lag_23,3.0
+ReguFlow_Competition_Flux__lag_23,0.0
+PM2.5 (µg/m³)__lag_24,34.24
+PM10 (µg/m³)__lag_24,59.62
+NO2 (µg/m³)__lag_24,10.13
+SO2 (µg/m³)__lag_24,5.46
+CO (mg/m³)__lag_24,0.6
+Ozone (µg/m³)__lag_24,18.805
+AT (°C)__lag_24,31.24
+RH (%)__lag_24,73.69
+WS (m/s)__lag_24,0.78
+WD (deg)__lag_24,213.16
+RF (mm)__lag_24,0.0
+TOT-RF (mm)__lag_24,0.0
+SR (W/mt2)__lag_24,15.004999999999999
+BP (mmHg)__lag_24,759.4
+PM2.5 (µg/m³)__subindex__lag_24,58.0
+PM10 (µg/m³)__subindex__lag_24,61.0
+NO2 (µg/m³)__subindex__lag_24,13.0
+SO2 (µg/m³)__subindex__lag_24,7.0
+CO (mg/m³)__subindex__lag_24,30.0
+Ozone (µg/m³)__subindex__lag_24,19.0
+AQI__lag_24,62.0
+Second_Subindex__lag_24,58.0
+Dominance_Gap__lag_24,3.0
+Valid_Pollutant_Count__lag_24,6.0
+Valid_Subindex_Count__lag_24,6.0
+AQI_Boundary_Distance__lag_24,12.0
+Nearest_AQI_Boundary__lag_24,50.0
+PM2.5_Boundary_Distance__lag_24,9.0
+PM10_Boundary_Distance__lag_24,11.0
+NO2_Boundary_Distance__lag_24,37.0
+SO2_Boundary_Distance__lag_24,43.0
+CO_Boundary_Distance__lag_24,20.0
+Ozone_Boundary_Distance__lag_24,31.0
+CoElevated_Count_Above_50__lag_24,2.0
+CoElevated_Count_Above_100__lag_24,0.0
+Dominant_PM2.5__lag_24,0.0
+Dominant_PM10__lag_24,1.0
+Dominant_NO2__lag_24,0.0
+Dominant_SO2__lag_24,0.0
+Dominant_CO__lag_24,0.0
+Dominant_Ozone__lag_24,0.0
+AQI_Boundary_Velocity__lag_24,0.0
+Dominance_Stability_12h__lag_24,1.0
+PM2.5_Boundary_Velocity__lag_24,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_24,-6.0
+PM2.5_Boundary_Flux__lag_24,0.0
+PM10_Boundary_Velocity__lag_24,0.0
+PM10_ReguFlow_Signed_Distance__lag_24,-10.0
+PM10_Boundary_Flux__lag_24,0.0
+NO2_Boundary_Velocity__lag_24,0.0
+NO2_ReguFlow_Signed_Distance__lag_24,37.0
+NO2_Boundary_Flux__lag_24,0.0
+SO2_Boundary_Velocity__lag_24,0.0
+SO2_ReguFlow_Signed_Distance__lag_24,43.0
+SO2_Boundary_Flux__lag_24,0.0
+CO_Boundary_Velocity__lag_24,0.0
+CO_ReguFlow_Signed_Distance__lag_24,20.0
+CO_Boundary_Flux__lag_24,0.0
+Ozone_Boundary_Velocity__lag_24,0.0
+Ozone_ReguFlow_Signed_Distance__lag_24,31.0
+Ozone_Boundary_Flux__lag_24,0.0
+ReguFlow_Top2_Dominance_Gap__lag_24,3.0
+ReguFlow_Competition_Flux__lag_24,0.0
+PM2.5 (µg/m³)__lag_25,34.235
+PM10 (µg/m³)__lag_25,59.62
+NO2 (µg/m³)__lag_25,10.13
+SO2 (µg/m³)__lag_25,5.46
+CO (mg/m³)__lag_25,0.6
+Ozone (µg/m³)__lag_25,18.8
+AT (°C)__lag_25,31.24
+RH (%)__lag_25,73.78
+WS (m/s)__lag_25,0.78
+WD (deg)__lag_25,213.095
+RF (mm)__lag_25,0.0
+TOT-RF (mm)__lag_25,0.0
+SR (W/mt2)__lag_25,16.84
+BP (mmHg)__lag_25,759.4
+PM2.5 (µg/m³)__subindex__lag_25,58.0
+PM10 (µg/m³)__subindex__lag_25,61.0
+NO2 (µg/m³)__subindex__lag_25,13.0
+SO2 (µg/m³)__subindex__lag_25,7.0
+CO (mg/m³)__subindex__lag_25,30.0
+Ozone (µg/m³)__subindex__lag_25,19.0
+AQI__lag_25,62.0
+Second_Subindex__lag_25,58.0
+Dominance_Gap__lag_25,3.0
+Valid_Pollutant_Count__lag_25,6.0
+Valid_Subindex_Count__lag_25,6.0
+AQI_Boundary_Distance__lag_25,12.0
+Nearest_AQI_Boundary__lag_25,50.0
+PM2.5_Boundary_Distance__lag_25,9.0
+PM10_Boundary_Distance__lag_25,11.0
+NO2_Boundary_Distance__lag_25,37.0
+SO2_Boundary_Distance__lag_25,43.0
+CO_Boundary_Distance__lag_25,20.0
+Ozone_Boundary_Distance__lag_25,31.0
+CoElevated_Count_Above_50__lag_25,2.0
+CoElevated_Count_Above_100__lag_25,0.0
+Dominant_PM2.5__lag_25,0.0
+Dominant_PM10__lag_25,1.0
+Dominant_NO2__lag_25,0.0
+Dominant_SO2__lag_25,0.0
+Dominant_CO__lag_25,0.0
+Dominant_Ozone__lag_25,0.0
+AQI_Boundary_Velocity__lag_25,0.0
+Dominance_Stability_12h__lag_25,1.0
+PM2.5_Boundary_Velocity__lag_25,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_25,-6.0
+PM2.5_Boundary_Flux__lag_25,0.0
+PM10_Boundary_Velocity__lag_25,0.0
+PM10_ReguFlow_Signed_Distance__lag_25,-10.0
+PM10_Boundary_Flux__lag_25,0.0
+NO2_Boundary_Velocity__lag_25,0.0
+NO2_ReguFlow_Signed_Distance__lag_25,37.0
+NO2_Boundary_Flux__lag_25,0.0
+SO2_Boundary_Velocity__lag_25,0.0
+SO2_ReguFlow_Signed_Distance__lag_25,43.0
+SO2_Boundary_Flux__lag_25,0.0
+CO_Boundary_Velocity__lag_25,0.0
+CO_ReguFlow_Signed_Distance__lag_25,20.0
+CO_Boundary_Flux__lag_25,0.0
+Ozone_Boundary_Velocity__lag_25,0.0
+Ozone_ReguFlow_Signed_Distance__lag_25,31.0
+Ozone_Boundary_Flux__lag_25,0.0
+ReguFlow_Top2_Dominance_Gap__lag_25,3.0
+ReguFlow_Competition_Flux__lag_25,0.0
+PM2.5 (µg/m³)__lag_26,34.21
+PM10 (µg/m³)__lag_26,59.61
+NO2 (µg/m³)__lag_26,10.13
+SO2 (µg/m³)__lag_26,5.46
+CO (mg/m³)__lag_26,0.6
+Ozone (µg/m³)__lag_26,18.76
+AT (°C)__lag_26,31.24
+RH (%)__lag_26,73.88
+WS (m/s)__lag_26,0.78
+WD (deg)__lag_26,212.94
+RF (mm)__lag_26,0.0
+TOT-RF (mm)__lag_26,0.0
+SR (W/mt2)__lag_26,18.33
+BP (mmHg)__lag_26,759.48
+PM2.5 (µg/m³)__subindex__lag_26,58.0
+PM10 (µg/m³)__subindex__lag_26,61.0
+NO2 (µg/m³)__subindex__lag_26,13.0
+SO2 (µg/m³)__subindex__lag_26,7.0
+CO (mg/m³)__subindex__lag_26,30.0
+Ozone (µg/m³)__subindex__lag_26,19.0
+AQI__lag_26,62.0
+Second_Subindex__lag_26,58.0
+Dominance_Gap__lag_26,3.0
+Valid_Pollutant_Count__lag_26,6.0
+Valid_Subindex_Count__lag_26,6.0
+AQI_Boundary_Distance__lag_26,12.0
+Nearest_AQI_Boundary__lag_26,50.0
+PM2.5_Boundary_Distance__lag_26,9.0
+PM10_Boundary_Distance__lag_26,11.0
+NO2_Boundary_Distance__lag_26,37.0
+SO2_Boundary_Distance__lag_26,43.0
+CO_Boundary_Distance__lag_26,20.0
+Ozone_Boundary_Distance__lag_26,31.0
+CoElevated_Count_Above_50__lag_26,2.0
+CoElevated_Count_Above_100__lag_26,0.0
+Dominant_PM2.5__lag_26,0.0
+Dominant_PM10__lag_26,1.0
+Dominant_NO2__lag_26,0.0
+Dominant_SO2__lag_26,0.0
+Dominant_CO__lag_26,0.0
+Dominant_Ozone__lag_26,0.0
+AQI_Boundary_Velocity__lag_26,0.0
+Dominance_Stability_12h__lag_26,1.0
+PM2.5_Boundary_Velocity__lag_26,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_26,-6.0
+PM2.5_Boundary_Flux__lag_26,0.0
+PM10_Boundary_Velocity__lag_26,0.0
+PM10_ReguFlow_Signed_Distance__lag_26,-10.0
+PM10_Boundary_Flux__lag_26,0.0
+NO2_Boundary_Velocity__lag_26,0.0
+NO2_ReguFlow_Signed_Distance__lag_26,37.0
+NO2_Boundary_Flux__lag_26,0.0
+SO2_Boundary_Velocity__lag_26,0.0
+SO2_ReguFlow_Signed_Distance__lag_26,43.0
+SO2_Boundary_Flux__lag_26,0.0
+CO_Boundary_Velocity__lag_26,0.0
+CO_ReguFlow_Signed_Distance__lag_26,20.0
+CO_Boundary_Flux__lag_26,0.0
+Ozone_Boundary_Velocity__lag_26,0.0
+Ozone_ReguFlow_Signed_Distance__lag_26,31.0
+Ozone_Boundary_Flux__lag_26,0.0
+ReguFlow_Top2_Dominance_Gap__lag_26,3.0
+ReguFlow_Competition_Flux__lag_26,0.0
+PM2.5 (µg/m³)__lag_27,34.2
+PM10 (µg/m³)__lag_27,59.585
+NO2 (µg/m³)__lag_27,10.13
+SO2 (µg/m³)__lag_27,5.46
+CO (mg/m³)__lag_27,0.6
+Ozone (µg/m³)__lag_27,18.744999999999997
+AT (°C)__lag_27,31.23
+RH (%)__lag_27,73.92
+WS (m/s)__lag_27,0.78
+WD (deg)__lag_27,212.73
+RF (mm)__lag_27,0.0
+TOT-RF (mm)__lag_27,0.0
+SR (W/mt2)__lag_27,19.12
+BP (mmHg)__lag_27,759.49
+PM2.5 (µg/m³)__subindex__lag_27,58.0
+PM10 (µg/m³)__subindex__lag_27,61.0
+NO2 (µg/m³)__subindex__lag_27,13.0
+SO2 (µg/m³)__subindex__lag_27,7.0
+CO (mg/m³)__subindex__lag_27,30.0
+Ozone (µg/m³)__subindex__lag_27,19.0
+AQI__lag_27,62.0
+Second_Subindex__lag_27,58.0
+Dominance_Gap__lag_27,3.0
+Valid_Pollutant_Count__lag_27,6.0
+Valid_Subindex_Count__lag_27,6.0
+AQI_Boundary_Distance__lag_27,12.0
+Nearest_AQI_Boundary__lag_27,50.0
+PM2.5_Boundary_Distance__lag_27,9.0
+PM10_Boundary_Distance__lag_27,11.0
+NO2_Boundary_Distance__lag_27,37.0
+SO2_Boundary_Distance__lag_27,43.0
+CO_Boundary_Distance__lag_27,20.0
+Ozone_Boundary_Distance__lag_27,31.0
+CoElevated_Count_Above_50__lag_27,2.0
+CoElevated_Count_Above_100__lag_27,0.0
+Dominant_PM2.5__lag_27,0.0
+Dominant_PM10__lag_27,1.0
+Dominant_NO2__lag_27,0.0
+Dominant_SO2__lag_27,0.0
+Dominant_CO__lag_27,0.0
+Dominant_Ozone__lag_27,0.0
+AQI_Boundary_Velocity__lag_27,0.0
+Dominance_Stability_12h__lag_27,1.0
+PM2.5_Boundary_Velocity__lag_27,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_27,-6.0
+PM2.5_Boundary_Flux__lag_27,0.0
+PM10_Boundary_Velocity__lag_27,0.0
+PM10_ReguFlow_Signed_Distance__lag_27,-10.0
+PM10_Boundary_Flux__lag_27,0.0
+NO2_Boundary_Velocity__lag_27,0.0
+NO2_ReguFlow_Signed_Distance__lag_27,37.0
+NO2_Boundary_Flux__lag_27,0.0
+SO2_Boundary_Velocity__lag_27,0.0
+SO2_ReguFlow_Signed_Distance__lag_27,43.0
+SO2_Boundary_Flux__lag_27,0.0
+CO_Boundary_Velocity__lag_27,0.0
+CO_ReguFlow_Signed_Distance__lag_27,20.0
+CO_Boundary_Flux__lag_27,0.0
+Ozone_Boundary_Velocity__lag_27,0.0
+Ozone_ReguFlow_Signed_Distance__lag_27,31.0
+Ozone_Boundary_Flux__lag_27,0.0
+ReguFlow_Top2_Dominance_Gap__lag_27,3.0
+ReguFlow_Competition_Flux__lag_27,0.0
+PM2.5 (µg/m³)__lag_28,34.19
+PM10 (µg/m³)__lag_28,59.58
+NO2 (µg/m³)__lag_28,10.13
+SO2 (µg/m³)__lag_28,5.45
+CO (mg/m³)__lag_28,0.6
+Ozone (µg/m³)__lag_28,18.755000000000003
+AT (°C)__lag_28,31.22
+RH (%)__lag_28,73.995
+WS (m/s)__lag_28,0.78
+WD (deg)__lag_28,212.59
+RF (mm)__lag_28,0.0
+TOT-RF (mm)__lag_28,0.0
+SR (W/mt2)__lag_28,18.869999999999997
+BP (mmHg)__lag_28,759.495
+PM2.5 (µg/m³)__subindex__lag_28,58.0
+PM10 (µg/m³)__subindex__lag_28,61.0
+NO2 (µg/m³)__subindex__lag_28,13.0
+SO2 (µg/m³)__subindex__lag_28,7.0
+CO (mg/m³)__subindex__lag_28,30.0
+Ozone (µg/m³)__subindex__lag_28,19.0
+AQI__lag_28,62.0
+Second_Subindex__lag_28,58.0
+Dominance_Gap__lag_28,3.0
+Valid_Pollutant_Count__lag_28,6.0
+Valid_Subindex_Count__lag_28,6.0
+AQI_Boundary_Distance__lag_28,12.0
+Nearest_AQI_Boundary__lag_28,50.0
+PM2.5_Boundary_Distance__lag_28,9.0
+PM10_Boundary_Distance__lag_28,11.0
+NO2_Boundary_Distance__lag_28,37.0
+SO2_Boundary_Distance__lag_28,43.0
+CO_Boundary_Distance__lag_28,20.0
+Ozone_Boundary_Distance__lag_28,31.0
+CoElevated_Count_Above_50__lag_28,2.0
+CoElevated_Count_Above_100__lag_28,0.0
+Dominant_PM2.5__lag_28,0.0
+Dominant_PM10__lag_28,1.0
+Dominant_NO2__lag_28,0.0
+Dominant_SO2__lag_28,0.0
+Dominant_CO__lag_28,0.0
+Dominant_Ozone__lag_28,0.0
+AQI_Boundary_Velocity__lag_28,0.0
+Dominance_Stability_12h__lag_28,1.0
+PM2.5_Boundary_Velocity__lag_28,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_28,-6.0
+PM2.5_Boundary_Flux__lag_28,0.0
+PM10_Boundary_Velocity__lag_28,0.0
+PM10_ReguFlow_Signed_Distance__lag_28,-10.0
+PM10_Boundary_Flux__lag_28,0.0
+NO2_Boundary_Velocity__lag_28,0.0
+NO2_ReguFlow_Signed_Distance__lag_28,37.0
+NO2_Boundary_Flux__lag_28,0.0
+SO2_Boundary_Velocity__lag_28,0.0
+SO2_ReguFlow_Signed_Distance__lag_28,43.0
+SO2_Boundary_Flux__lag_28,0.0
+CO_Boundary_Velocity__lag_28,0.0
+CO_ReguFlow_Signed_Distance__lag_28,20.0
+CO_Boundary_Flux__lag_28,0.0
+Ozone_Boundary_Velocity__lag_28,0.0
+Ozone_ReguFlow_Signed_Distance__lag_28,31.0
+Ozone_Boundary_Flux__lag_28,0.0
+ReguFlow_Top2_Dominance_Gap__lag_28,3.0
+ReguFlow_Competition_Flux__lag_28,0.0
+PM2.5 (µg/m³)__lag_29,34.19
+PM10 (µg/m³)__lag_29,59.58
+NO2 (µg/m³)__lag_29,10.13
+SO2 (µg/m³)__lag_29,5.45
+CO (mg/m³)__lag_29,0.6
+Ozone (µg/m³)__lag_29,18.71
+AT (°C)__lag_29,31.21
+RH (%)__lag_29,74.08
+WS (m/s)__lag_29,0.78
+WD (deg)__lag_29,212.49
+RF (mm)__lag_29,0.0
+TOT-RF (mm)__lag_29,0.0
+SR (W/mt2)__lag_29,18.08
+BP (mmHg)__lag_29,759.51
+PM2.5 (µg/m³)__subindex__lag_29,58.0
+PM10 (µg/m³)__subindex__lag_29,61.0
+NO2 (µg/m³)__subindex__lag_29,13.0
+SO2 (µg/m³)__subindex__lag_29,7.0
+CO (mg/m³)__subindex__lag_29,30.0
+Ozone (µg/m³)__subindex__lag_29,19.0
+AQI__lag_29,62.0
+Second_Subindex__lag_29,58.0
+Dominance_Gap__lag_29,3.0
+Valid_Pollutant_Count__lag_29,6.0
+Valid_Subindex_Count__lag_29,6.0
+AQI_Boundary_Distance__lag_29,12.0
+Nearest_AQI_Boundary__lag_29,50.0
+PM2.5_Boundary_Distance__lag_29,9.0
+PM10_Boundary_Distance__lag_29,11.0
+NO2_Boundary_Distance__lag_29,37.0
+SO2_Boundary_Distance__lag_29,43.0
+CO_Boundary_Distance__lag_29,20.0
+Ozone_Boundary_Distance__lag_29,31.0
+CoElevated_Count_Above_50__lag_29,2.0
+CoElevated_Count_Above_100__lag_29,0.0
+Dominant_PM2.5__lag_29,0.0
+Dominant_PM10__lag_29,1.0
+Dominant_NO2__lag_29,0.0
+Dominant_SO2__lag_29,0.0
+Dominant_CO__lag_29,0.0
+Dominant_Ozone__lag_29,0.0
+AQI_Boundary_Velocity__lag_29,0.0
+Dominance_Stability_12h__lag_29,1.0
+PM2.5_Boundary_Velocity__lag_29,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_29,-6.0
+PM2.5_Boundary_Flux__lag_29,0.0
+PM10_Boundary_Velocity__lag_29,0.0
+PM10_ReguFlow_Signed_Distance__lag_29,-10.0
+PM10_Boundary_Flux__lag_29,0.0
+NO2_Boundary_Velocity__lag_29,0.0
+NO2_ReguFlow_Signed_Distance__lag_29,37.0
+NO2_Boundary_Flux__lag_29,0.0
+SO2_Boundary_Velocity__lag_29,0.0
+SO2_ReguFlow_Signed_Distance__lag_29,43.0
+SO2_Boundary_Flux__lag_29,0.0
+CO_Boundary_Velocity__lag_29,0.0
+CO_ReguFlow_Signed_Distance__lag_29,20.0
+CO_Boundary_Flux__lag_29,0.0
+Ozone_Boundary_Velocity__lag_29,0.0
+Ozone_ReguFlow_Signed_Distance__lag_29,31.0
+Ozone_Boundary_Flux__lag_29,0.0
+ReguFlow_Top2_Dominance_Gap__lag_29,3.0
+ReguFlow_Competition_Flux__lag_29,0.0
+PM2.5 (µg/m³)__lag_30,34.19
+PM10 (µg/m³)__lag_30,59.58
+NO2 (µg/m³)__lag_30,10.12
+SO2 (µg/m³)__lag_30,5.45
+CO (mg/m³)__lag_30,0.6
+Ozone (µg/m³)__lag_30,18.7
+AT (°C)__lag_30,31.2
+RH (%)__lag_30,74.18
+WS (m/s)__lag_30,0.78
+WD (deg)__lag_30,212.54500000000002
+RF (mm)__lag_30,0.0
+TOT-RF (mm)__lag_30,0.0
+SR (W/mt2)__lag_30,17.85
+BP (mmHg)__lag_30,759.55
+PM2.5 (µg/m³)__subindex__lag_30,58.0
+PM10 (µg/m³)__subindex__lag_30,61.0
+NO2 (µg/m³)__subindex__lag_30,13.0
+SO2 (µg/m³)__subindex__lag_30,7.0
+CO (mg/m³)__subindex__lag_30,30.0
+Ozone (µg/m³)__subindex__lag_30,19.0
+AQI__lag_30,62.0
+Second_Subindex__lag_30,58.0
+Dominance_Gap__lag_30,3.0
+Valid_Pollutant_Count__lag_30,6.0
+Valid_Subindex_Count__lag_30,6.0
+AQI_Boundary_Distance__lag_30,12.0
+Nearest_AQI_Boundary__lag_30,50.0
+PM2.5_Boundary_Distance__lag_30,9.0
+PM10_Boundary_Distance__lag_30,11.0
+NO2_Boundary_Distance__lag_30,37.0
+SO2_Boundary_Distance__lag_30,43.0
+CO_Boundary_Distance__lag_30,20.0
+Ozone_Boundary_Distance__lag_30,31.0
+CoElevated_Count_Above_50__lag_30,2.0
+CoElevated_Count_Above_100__lag_30,0.0
+Dominant_PM2.5__lag_30,0.0
+Dominant_PM10__lag_30,1.0
+Dominant_NO2__lag_30,0.0
+Dominant_SO2__lag_30,0.0
+Dominant_CO__lag_30,0.0
+Dominant_Ozone__lag_30,0.0
+AQI_Boundary_Velocity__lag_30,0.0
+Dominance_Stability_12h__lag_30,1.0
+PM2.5_Boundary_Velocity__lag_30,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_30,-6.0
+PM2.5_Boundary_Flux__lag_30,0.0
+PM10_Boundary_Velocity__lag_30,0.0
+PM10_ReguFlow_Signed_Distance__lag_30,-10.0
+PM10_Boundary_Flux__lag_30,0.0
+NO2_Boundary_Velocity__lag_30,0.0
+NO2_ReguFlow_Signed_Distance__lag_30,37.0
+NO2_Boundary_Flux__lag_30,0.0
+SO2_Boundary_Velocity__lag_30,0.0
+SO2_ReguFlow_Signed_Distance__lag_30,43.0
+SO2_Boundary_Flux__lag_30,0.0
+CO_Boundary_Velocity__lag_30,0.0
+CO_ReguFlow_Signed_Distance__lag_30,20.0
+CO_Boundary_Flux__lag_30,0.0
+Ozone_Boundary_Velocity__lag_30,0.0
+Ozone_ReguFlow_Signed_Distance__lag_30,31.0
+Ozone_Boundary_Flux__lag_30,0.0
+ReguFlow_Top2_Dominance_Gap__lag_30,3.0
+ReguFlow_Competition_Flux__lag_30,0.0
+PM2.5 (µg/m³)__lag_31,34.19
+PM10 (µg/m³)__lag_31,59.614999999999995
+NO2 (µg/m³)__lag_31,10.12
+SO2 (µg/m³)__lag_31,5.45
+CO (mg/m³)__lag_31,0.6
+Ozone (µg/m³)__lag_31,18.68
+AT (°C)__lag_31,31.19
+RH (%)__lag_31,74.37
+WS (m/s)__lag_31,0.78
+WD (deg)__lag_31,212.54500000000002
+RF (mm)__lag_31,0.0
+TOT-RF (mm)__lag_31,0.0
+SR (W/mt2)__lag_31,17.325000000000003
+BP (mmHg)__lag_31,759.585
+PM2.5 (µg/m³)__subindex__lag_31,58.0
+PM10 (µg/m³)__subindex__lag_31,61.0
+NO2 (µg/m³)__subindex__lag_31,13.0
+SO2 (µg/m³)__subindex__lag_31,7.0
+CO (mg/m³)__subindex__lag_31,30.0
+Ozone (µg/m³)__subindex__lag_31,19.0
+AQI__lag_31,62.0
+Second_Subindex__lag_31,58.0
+Dominance_Gap__lag_31,3.0
+Valid_Pollutant_Count__lag_31,6.0
+Valid_Subindex_Count__lag_31,6.0
+AQI_Boundary_Distance__lag_31,12.0
+Nearest_AQI_Boundary__lag_31,50.0
+PM2.5_Boundary_Distance__lag_31,9.0
+PM10_Boundary_Distance__lag_31,11.0
+NO2_Boundary_Distance__lag_31,37.0
+SO2_Boundary_Distance__lag_31,43.0
+CO_Boundary_Distance__lag_31,20.0
+Ozone_Boundary_Distance__lag_31,31.0
+CoElevated_Count_Above_50__lag_31,2.0
+CoElevated_Count_Above_100__lag_31,0.0
+Dominant_PM2.5__lag_31,0.0
+Dominant_PM10__lag_31,1.0
+Dominant_NO2__lag_31,0.0
+Dominant_SO2__lag_31,0.0
+Dominant_CO__lag_31,0.0
+Dominant_Ozone__lag_31,0.0
+AQI_Boundary_Velocity__lag_31,0.0
+Dominance_Stability_12h__lag_31,1.0
+PM2.5_Boundary_Velocity__lag_31,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_31,-6.0
+PM2.5_Boundary_Flux__lag_31,0.0
+PM10_Boundary_Velocity__lag_31,0.0
+PM10_ReguFlow_Signed_Distance__lag_31,-10.0
+PM10_Boundary_Flux__lag_31,0.0
+NO2_Boundary_Velocity__lag_31,0.0
+NO2_ReguFlow_Signed_Distance__lag_31,37.0
+NO2_Boundary_Flux__lag_31,0.0
+SO2_Boundary_Velocity__lag_31,0.0
+SO2_ReguFlow_Signed_Distance__lag_31,43.0
+SO2_Boundary_Flux__lag_31,0.0
+CO_Boundary_Velocity__lag_31,0.0
+CO_ReguFlow_Signed_Distance__lag_31,20.0
+CO_Boundary_Flux__lag_31,0.0
+Ozone_Boundary_Velocity__lag_31,0.0
+Ozone_ReguFlow_Signed_Distance__lag_31,31.0
+Ozone_Boundary_Flux__lag_31,0.0
+ReguFlow_Top2_Dominance_Gap__lag_31,3.0
+ReguFlow_Competition_Flux__lag_31,0.0
+PM2.5 (µg/m³)__lag_32,34.18
+PM10 (µg/m³)__lag_32,59.61
+NO2 (µg/m³)__lag_32,10.12
+SO2 (µg/m³)__lag_32,5.45
+CO (mg/m³)__lag_32,0.6
+Ozone (µg/m³)__lag_32,18.66
+AT (°C)__lag_32,31.17
+RH (%)__lag_32,74.465
+WS (m/s)__lag_32,0.78
+WD (deg)__lag_32,212.69
+RF (mm)__lag_32,0.0
+TOT-RF (mm)__lag_32,0.0
+SR (W/mt2)__lag_32,16.175
+BP (mmHg)__lag_32,759.59
+PM2.5 (µg/m³)__subindex__lag_32,58.0
+PM10 (µg/m³)__subindex__lag_32,61.0
+NO2 (µg/m³)__subindex__lag_32,13.0
+SO2 (µg/m³)__subindex__lag_32,7.0
+CO (mg/m³)__subindex__lag_32,30.0
+Ozone (µg/m³)__subindex__lag_32,19.0
+AQI__lag_32,62.0
+Second_Subindex__lag_32,58.0
+Dominance_Gap__lag_32,3.0
+Valid_Pollutant_Count__lag_32,6.0
+Valid_Subindex_Count__lag_32,6.0
+AQI_Boundary_Distance__lag_32,12.0
+Nearest_AQI_Boundary__lag_32,50.0
+PM2.5_Boundary_Distance__lag_32,9.0
+PM10_Boundary_Distance__lag_32,11.0
+NO2_Boundary_Distance__lag_32,37.0
+SO2_Boundary_Distance__lag_32,43.0
+CO_Boundary_Distance__lag_32,20.0
+Ozone_Boundary_Distance__lag_32,31.0
+CoElevated_Count_Above_50__lag_32,2.0
+CoElevated_Count_Above_100__lag_32,0.0
+Dominant_PM2.5__lag_32,0.0
+Dominant_PM10__lag_32,1.0
+Dominant_NO2__lag_32,0.0
+Dominant_SO2__lag_32,0.0
+Dominant_CO__lag_32,0.0
+Dominant_Ozone__lag_32,0.0
+AQI_Boundary_Velocity__lag_32,0.0
+Dominance_Stability_12h__lag_32,1.0
+PM2.5_Boundary_Velocity__lag_32,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_32,-6.0
+PM2.5_Boundary_Flux__lag_32,0.0
+PM10_Boundary_Velocity__lag_32,0.0
+PM10_ReguFlow_Signed_Distance__lag_32,-10.0
+PM10_Boundary_Flux__lag_32,0.0
+NO2_Boundary_Velocity__lag_32,0.0
+NO2_ReguFlow_Signed_Distance__lag_32,37.0
+NO2_Boundary_Flux__lag_32,0.0
+SO2_Boundary_Velocity__lag_32,0.0
+SO2_ReguFlow_Signed_Distance__lag_32,43.0
+SO2_Boundary_Flux__lag_32,0.0
+CO_Boundary_Velocity__lag_32,0.0
+CO_ReguFlow_Signed_Distance__lag_32,20.0
+CO_Boundary_Flux__lag_32,0.0
+Ozone_Boundary_Velocity__lag_32,0.0
+Ozone_ReguFlow_Signed_Distance__lag_32,31.0
+Ozone_Boundary_Flux__lag_32,0.0
+ReguFlow_Top2_Dominance_Gap__lag_32,3.0
+ReguFlow_Competition_Flux__lag_32,0.0
+PM2.5 (µg/m³)__lag_33,34.18
+PM10 (µg/m³)__lag_33,59.62
+NO2 (µg/m³)__lag_33,10.12
+SO2 (µg/m³)__lag_33,5.45
+CO (mg/m³)__lag_33,0.6
+Ozone (µg/m³)__lag_33,18.61
+AT (°C)__lag_33,31.16
+RH (%)__lag_33,74.56
+WS (m/s)__lag_33,0.78
+WD (deg)__lag_33,212.54500000000002
+RF (mm)__lag_33,0.0
+TOT-RF (mm)__lag_33,0.0
+SR (W/mt2)__lag_33,15.120000000000001
+BP (mmHg)__lag_33,759.62
+PM2.5 (µg/m³)__subindex__lag_33,58.0
+PM10 (µg/m³)__subindex__lag_33,61.0
+NO2 (µg/m³)__subindex__lag_33,13.0
+SO2 (µg/m³)__subindex__lag_33,7.0
+CO (mg/m³)__subindex__lag_33,30.0
+Ozone (µg/m³)__subindex__lag_33,19.0
+AQI__lag_33,62.0
+Second_Subindex__lag_33,58.0
+Dominance_Gap__lag_33,3.0
+Valid_Pollutant_Count__lag_33,6.0
+Valid_Subindex_Count__lag_33,6.0
+AQI_Boundary_Distance__lag_33,12.0
+Nearest_AQI_Boundary__lag_33,50.0
+PM2.5_Boundary_Distance__lag_33,9.0
+PM10_Boundary_Distance__lag_33,11.0
+NO2_Boundary_Distance__lag_33,37.0
+SO2_Boundary_Distance__lag_33,43.0
+CO_Boundary_Distance__lag_33,20.0
+Ozone_Boundary_Distance__lag_33,31.0
+CoElevated_Count_Above_50__lag_33,2.0
+CoElevated_Count_Above_100__lag_33,0.0
+Dominant_PM2.5__lag_33,0.0
+Dominant_PM10__lag_33,1.0
+Dominant_NO2__lag_33,0.0
+Dominant_SO2__lag_33,0.0
+Dominant_CO__lag_33,0.0
+Dominant_Ozone__lag_33,0.0
+AQI_Boundary_Velocity__lag_33,0.0
+Dominance_Stability_12h__lag_33,1.0
+PM2.5_Boundary_Velocity__lag_33,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_33,-6.0
+PM2.5_Boundary_Flux__lag_33,0.0
+PM10_Boundary_Velocity__lag_33,0.0
+PM10_ReguFlow_Signed_Distance__lag_33,-10.0
+PM10_Boundary_Flux__lag_33,0.0
+NO2_Boundary_Velocity__lag_33,0.0
+NO2_ReguFlow_Signed_Distance__lag_33,37.0
+NO2_Boundary_Flux__lag_33,0.0
+SO2_Boundary_Velocity__lag_33,0.0
+SO2_ReguFlow_Signed_Distance__lag_33,43.0
+SO2_Boundary_Flux__lag_33,0.0
+CO_Boundary_Velocity__lag_33,0.0
+CO_ReguFlow_Signed_Distance__lag_33,20.0
+CO_Boundary_Flux__lag_33,0.0
+Ozone_Boundary_Velocity__lag_33,0.0
+Ozone_ReguFlow_Signed_Distance__lag_33,31.0
+Ozone_Boundary_Flux__lag_33,0.0
+ReguFlow_Top2_Dominance_Gap__lag_33,3.0
+ReguFlow_Competition_Flux__lag_33,0.0
+PM2.5 (µg/m³)__lag_34,34.19
+PM10 (µg/m³)__lag_34,59.665
+NO2 (µg/m³)__lag_34,10.13
+SO2 (µg/m³)__lag_34,5.45
+CO (mg/m³)__lag_34,0.6
+Ozone (µg/m³)__lag_34,18.59
+AT (°C)__lag_34,31.15833333333333
+RH (%)__lag_34,74.64
+WS (m/s)__lag_34,0.78
+WD (deg)__lag_34,212.445
+RF (mm)__lag_34,0.0
+TOT-RF (mm)__lag_34,0.0
+SR (W/mt2)__lag_34,13.74
+BP (mmHg)__lag_34,759.67
+PM2.5 (µg/m³)__subindex__lag_34,58.0
+PM10 (µg/m³)__subindex__lag_34,61.0
+NO2 (µg/m³)__subindex__lag_34,13.0
+SO2 (µg/m³)__subindex__lag_34,7.0
+CO (mg/m³)__subindex__lag_34,30.0
+Ozone (µg/m³)__subindex__lag_34,19.0
+AQI__lag_34,62.0
+Second_Subindex__lag_34,58.0
+Dominance_Gap__lag_34,3.0
+Valid_Pollutant_Count__lag_34,6.0
+Valid_Subindex_Count__lag_34,6.0
+AQI_Boundary_Distance__lag_34,12.0
+Nearest_AQI_Boundary__lag_34,50.0
+PM2.5_Boundary_Distance__lag_34,9.0
+PM10_Boundary_Distance__lag_34,11.0
+NO2_Boundary_Distance__lag_34,37.0
+SO2_Boundary_Distance__lag_34,43.0
+CO_Boundary_Distance__lag_34,20.0
+Ozone_Boundary_Distance__lag_34,31.0
+CoElevated_Count_Above_50__lag_34,2.0
+CoElevated_Count_Above_100__lag_34,0.0
+Dominant_PM2.5__lag_34,0.0
+Dominant_PM10__lag_34,1.0
+Dominant_NO2__lag_34,0.0
+Dominant_SO2__lag_34,0.0
+Dominant_CO__lag_34,0.0
+Dominant_Ozone__lag_34,0.0
+AQI_Boundary_Velocity__lag_34,0.0
+Dominance_Stability_12h__lag_34,1.0
+PM2.5_Boundary_Velocity__lag_34,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_34,-6.0
+PM2.5_Boundary_Flux__lag_34,0.0
+PM10_Boundary_Velocity__lag_34,0.0
+PM10_ReguFlow_Signed_Distance__lag_34,-10.0
+PM10_Boundary_Flux__lag_34,0.0
+NO2_Boundary_Velocity__lag_34,0.0
+NO2_ReguFlow_Signed_Distance__lag_34,37.0
+NO2_Boundary_Flux__lag_34,0.0
+SO2_Boundary_Velocity__lag_34,0.0
+SO2_ReguFlow_Signed_Distance__lag_34,43.0
+SO2_Boundary_Flux__lag_34,0.0
+CO_Boundary_Velocity__lag_34,0.0
+CO_ReguFlow_Signed_Distance__lag_34,20.0
+CO_Boundary_Flux__lag_34,0.0
+Ozone_Boundary_Velocity__lag_34,0.0
+Ozone_ReguFlow_Signed_Distance__lag_34,31.0
+Ozone_Boundary_Flux__lag_34,0.0
+ReguFlow_Top2_Dominance_Gap__lag_34,3.0
+ReguFlow_Competition_Flux__lag_34,0.0
+PM2.5 (µg/m³)__lag_35,34.2
+PM10 (µg/m³)__lag_35,59.71
+NO2 (µg/m³)__lag_35,10.12
+SO2 (µg/m³)__lag_35,5.45
+CO (mg/m³)__lag_35,0.6
+Ozone (µg/m³)__lag_35,18.6
+AT (°C)__lag_35,31.15
+RH (%)__lag_35,74.68
+WS (m/s)__lag_35,0.78
+WD (deg)__lag_35,212.24
+RF (mm)__lag_35,0.0
+TOT-RF (mm)__lag_35,0.0
+SR (W/mt2)__lag_35,12.75
+BP (mmHg)__lag_35,759.69
+PM2.5 (µg/m³)__subindex__lag_35,58.0
+PM10 (µg/m³)__subindex__lag_35,61.0
+NO2 (µg/m³)__subindex__lag_35,13.0
+SO2 (µg/m³)__subindex__lag_35,7.0
+CO (mg/m³)__subindex__lag_35,30.0
+Ozone (µg/m³)__subindex__lag_35,19.0
+AQI__lag_35,62.0
+Second_Subindex__lag_35,58.0
+Dominance_Gap__lag_35,3.0
+Valid_Pollutant_Count__lag_35,6.0
+Valid_Subindex_Count__lag_35,6.0
+AQI_Boundary_Distance__lag_35,12.0
+Nearest_AQI_Boundary__lag_35,50.0
+PM2.5_Boundary_Distance__lag_35,9.0
+PM10_Boundary_Distance__lag_35,11.0
+NO2_Boundary_Distance__lag_35,37.0
+SO2_Boundary_Distance__lag_35,43.0
+CO_Boundary_Distance__lag_35,20.0
+Ozone_Boundary_Distance__lag_35,31.0
+CoElevated_Count_Above_50__lag_35,2.0
+CoElevated_Count_Above_100__lag_35,0.0
+Dominant_PM2.5__lag_35,0.0
+Dominant_PM10__lag_35,1.0
+Dominant_NO2__lag_35,0.0
+Dominant_SO2__lag_35,0.0
+Dominant_CO__lag_35,0.0
+Dominant_Ozone__lag_35,0.0
+AQI_Boundary_Velocity__lag_35,0.0
+Dominance_Stability_12h__lag_35,1.0
+PM2.5_Boundary_Velocity__lag_35,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_35,-6.0
+PM2.5_Boundary_Flux__lag_35,0.0
+PM10_Boundary_Velocity__lag_35,0.0
+PM10_ReguFlow_Signed_Distance__lag_35,-10.0
+PM10_Boundary_Flux__lag_35,0.0
+NO2_Boundary_Velocity__lag_35,0.0
+NO2_ReguFlow_Signed_Distance__lag_35,37.0
+NO2_Boundary_Flux__lag_35,0.0
+SO2_Boundary_Velocity__lag_35,0.0
+SO2_ReguFlow_Signed_Distance__lag_35,43.0
+SO2_Boundary_Flux__lag_35,0.0
+CO_Boundary_Velocity__lag_35,0.0
+CO_ReguFlow_Signed_Distance__lag_35,20.0
+CO_Boundary_Flux__lag_35,0.0
+Ozone_Boundary_Velocity__lag_35,0.0
+Ozone_ReguFlow_Signed_Distance__lag_35,31.0
+Ozone_Boundary_Flux__lag_35,0.0
+ReguFlow_Top2_Dominance_Gap__lag_35,3.0
+ReguFlow_Competition_Flux__lag_35,0.0
+PM2.5 (µg/m³)__lag_36,34.2
+PM10 (µg/m³)__lag_36,59.74
+NO2 (µg/m³)__lag_36,10.12
+SO2 (µg/m³)__lag_36,5.45
+CO (mg/m³)__lag_36,0.6
+Ozone (µg/m³)__lag_36,18.59
+AT (°C)__lag_36,31.14
+RH (%)__lag_36,74.73
+WS (m/s)__lag_36,0.78
+WD (deg)__lag_36,212.16
+RF (mm)__lag_36,0.0
+TOT-RF (mm)__lag_36,0.0
+SR (W/mt2)__lag_36,11.42
+BP (mmHg)__lag_36,759.7
+PM2.5 (µg/m³)__subindex__lag_36,58.0
+PM10 (µg/m³)__subindex__lag_36,61.0
+NO2 (µg/m³)__subindex__lag_36,13.0
+SO2 (µg/m³)__subindex__lag_36,7.0
+CO (mg/m³)__subindex__lag_36,30.0
+Ozone (µg/m³)__subindex__lag_36,19.0
+AQI__lag_36,62.0
+Second_Subindex__lag_36,58.0
+Dominance_Gap__lag_36,3.0
+Valid_Pollutant_Count__lag_36,6.0
+Valid_Subindex_Count__lag_36,6.0
+AQI_Boundary_Distance__lag_36,12.0
+Nearest_AQI_Boundary__lag_36,50.0
+PM2.5_Boundary_Distance__lag_36,9.0
+PM10_Boundary_Distance__lag_36,11.0
+NO2_Boundary_Distance__lag_36,37.0
+SO2_Boundary_Distance__lag_36,43.0
+CO_Boundary_Distance__lag_36,20.0
+Ozone_Boundary_Distance__lag_36,31.0
+CoElevated_Count_Above_50__lag_36,2.0
+CoElevated_Count_Above_100__lag_36,0.0
+Dominant_PM2.5__lag_36,0.0
+Dominant_PM10__lag_36,1.0
+Dominant_NO2__lag_36,0.0
+Dominant_SO2__lag_36,0.0
+Dominant_CO__lag_36,0.0
+Dominant_Ozone__lag_36,0.0
+AQI_Boundary_Velocity__lag_36,0.0
+Dominance_Stability_12h__lag_36,1.0
+PM2.5_Boundary_Velocity__lag_36,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_36,-6.0
+PM2.5_Boundary_Flux__lag_36,0.0
+PM10_Boundary_Velocity__lag_36,0.0
+PM10_ReguFlow_Signed_Distance__lag_36,-10.0
+PM10_Boundary_Flux__lag_36,0.0
+NO2_Boundary_Velocity__lag_36,0.0
+NO2_ReguFlow_Signed_Distance__lag_36,37.0
+NO2_Boundary_Flux__lag_36,0.0
+SO2_Boundary_Velocity__lag_36,0.0
+SO2_ReguFlow_Signed_Distance__lag_36,43.0
+SO2_Boundary_Flux__lag_36,0.0
+CO_Boundary_Velocity__lag_36,0.0
+CO_ReguFlow_Signed_Distance__lag_36,20.0
+CO_Boundary_Flux__lag_36,0.0
+Ozone_Boundary_Velocity__lag_36,0.0
+Ozone_ReguFlow_Signed_Distance__lag_36,31.0
+Ozone_Boundary_Flux__lag_36,0.0
+ReguFlow_Top2_Dominance_Gap__lag_36,3.0
+ReguFlow_Competition_Flux__lag_36,0.0
+PM2.5 (µg/m³)__lag_37,34.22
+PM10 (µg/m³)__lag_37,59.745000000000005
+NO2 (µg/m³)__lag_37,10.13
+SO2 (µg/m³)__lag_37,5.45
+CO (mg/m³)__lag_37,0.6
+Ozone (µg/m³)__lag_37,18.56
+AT (°C)__lag_37,31.14
+RH (%)__lag_37,74.74
+WS (m/s)__lag_37,0.78
+WD (deg)__lag_37,212.14
+RF (mm)__lag_37,0.0
+TOT-RF (mm)__lag_37,0.0
+SR (W/mt2)__lag_37,10.504999999999999
+BP (mmHg)__lag_37,759.705
+PM2.5 (µg/m³)__subindex__lag_37,58.0
+PM10 (µg/m³)__subindex__lag_37,61.0
+NO2 (µg/m³)__subindex__lag_37,13.0
+SO2 (µg/m³)__subindex__lag_37,7.0
+CO (mg/m³)__subindex__lag_37,30.0
+Ozone (µg/m³)__subindex__lag_37,19.0
+AQI__lag_37,62.0
+Second_Subindex__lag_37,58.0
+Dominance_Gap__lag_37,3.0
+Valid_Pollutant_Count__lag_37,6.0
+Valid_Subindex_Count__lag_37,6.0
+AQI_Boundary_Distance__lag_37,12.0
+Nearest_AQI_Boundary__lag_37,50.0
+PM2.5_Boundary_Distance__lag_37,9.0
+PM10_Boundary_Distance__lag_37,11.0
+NO2_Boundary_Distance__lag_37,37.0
+SO2_Boundary_Distance__lag_37,43.0
+CO_Boundary_Distance__lag_37,20.0
+Ozone_Boundary_Distance__lag_37,31.0
+CoElevated_Count_Above_50__lag_37,2.0
+CoElevated_Count_Above_100__lag_37,0.0
+Dominant_PM2.5__lag_37,0.0
+Dominant_PM10__lag_37,1.0
+Dominant_NO2__lag_37,0.0
+Dominant_SO2__lag_37,0.0
+Dominant_CO__lag_37,0.0
+Dominant_Ozone__lag_37,0.0
+AQI_Boundary_Velocity__lag_37,0.0
+Dominance_Stability_12h__lag_37,1.0
+PM2.5_Boundary_Velocity__lag_37,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_37,-6.0
+PM2.5_Boundary_Flux__lag_37,0.0
+PM10_Boundary_Velocity__lag_37,0.0
+PM10_ReguFlow_Signed_Distance__lag_37,-10.0
+PM10_Boundary_Flux__lag_37,0.0
+NO2_Boundary_Velocity__lag_37,0.0
+NO2_ReguFlow_Signed_Distance__lag_37,37.0
+NO2_Boundary_Flux__lag_37,0.0
+SO2_Boundary_Velocity__lag_37,0.0
+SO2_ReguFlow_Signed_Distance__lag_37,43.0
+SO2_Boundary_Flux__lag_37,0.0
+CO_Boundary_Velocity__lag_37,0.0
+CO_ReguFlow_Signed_Distance__lag_37,20.0
+CO_Boundary_Flux__lag_37,0.0
+Ozone_Boundary_Velocity__lag_37,0.0
+Ozone_ReguFlow_Signed_Distance__lag_37,31.0
+Ozone_Boundary_Flux__lag_37,0.0
+ReguFlow_Top2_Dominance_Gap__lag_37,3.0
+ReguFlow_Competition_Flux__lag_37,0.0
+PM2.5 (µg/m³)__lag_38,34.24
+PM10 (µg/m³)__lag_38,59.78
+NO2 (µg/m³)__lag_38,10.13
+SO2 (µg/m³)__lag_38,5.44
+CO (mg/m³)__lag_38,0.6
+Ozone (µg/m³)__lag_38,18.56
+AT (°C)__lag_38,31.14
+RH (%)__lag_38,74.75
+WS (m/s)__lag_38,0.78
+WD (deg)__lag_38,212.16
+RF (mm)__lag_38,0.0
+TOT-RF (mm)__lag_38,0.0
+SR (W/mt2)__lag_38,9.83
+BP (mmHg)__lag_38,759.725
+PM2.5 (µg/m³)__subindex__lag_38,58.0
+PM10 (µg/m³)__subindex__lag_38,61.0
+NO2 (µg/m³)__subindex__lag_38,13.0
+SO2 (µg/m³)__subindex__lag_38,7.0
+CO (mg/m³)__subindex__lag_38,30.0
+Ozone (µg/m³)__subindex__lag_38,19.0
+AQI__lag_38,62.0
+Second_Subindex__lag_38,58.0
+Dominance_Gap__lag_38,3.0
+Valid_Pollutant_Count__lag_38,6.0
+Valid_Subindex_Count__lag_38,6.0
+AQI_Boundary_Distance__lag_38,12.0
+Nearest_AQI_Boundary__lag_38,50.0
+PM2.5_Boundary_Distance__lag_38,9.0
+PM10_Boundary_Distance__lag_38,11.0
+NO2_Boundary_Distance__lag_38,37.0
+SO2_Boundary_Distance__lag_38,43.0
+CO_Boundary_Distance__lag_38,20.0
+Ozone_Boundary_Distance__lag_38,31.0
+CoElevated_Count_Above_50__lag_38,2.0
+CoElevated_Count_Above_100__lag_38,0.0
+Dominant_PM2.5__lag_38,0.0
+Dominant_PM10__lag_38,1.0
+Dominant_NO2__lag_38,0.0
+Dominant_SO2__lag_38,0.0
+Dominant_CO__lag_38,0.0
+Dominant_Ozone__lag_38,0.0
+AQI_Boundary_Velocity__lag_38,0.0
+Dominance_Stability_12h__lag_38,1.0
+PM2.5_Boundary_Velocity__lag_38,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_38,-6.0
+PM2.5_Boundary_Flux__lag_38,0.0
+PM10_Boundary_Velocity__lag_38,0.0
+PM10_ReguFlow_Signed_Distance__lag_38,-10.0
+PM10_Boundary_Flux__lag_38,0.0
+NO2_Boundary_Velocity__lag_38,0.0
+NO2_ReguFlow_Signed_Distance__lag_38,37.0
+NO2_Boundary_Flux__lag_38,0.0
+SO2_Boundary_Velocity__lag_38,0.0
+SO2_ReguFlow_Signed_Distance__lag_38,43.0
+SO2_Boundary_Flux__lag_38,0.0
+CO_Boundary_Velocity__lag_38,0.0
+CO_ReguFlow_Signed_Distance__lag_38,20.0
+CO_Boundary_Flux__lag_38,0.0
+Ozone_Boundary_Velocity__lag_38,0.0
+Ozone_ReguFlow_Signed_Distance__lag_38,31.0
+Ozone_Boundary_Flux__lag_38,0.0
+ReguFlow_Top2_Dominance_Gap__lag_38,3.0
+ReguFlow_Competition_Flux__lag_38,0.0
+PM2.5 (µg/m³)__lag_39,34.25
+PM10 (µg/m³)__lag_39,59.785
+NO2 (µg/m³)__lag_39,10.13
+SO2 (µg/m³)__lag_39,5.44
+CO (mg/m³)__lag_39,0.6
+Ozone (µg/m³)__lag_39,18.56
+AT (°C)__lag_39,31.14
+RH (%)__lag_39,74.725
+WS (m/s)__lag_39,0.78
+WD (deg)__lag_39,212.185
+RF (mm)__lag_39,0.0
+TOT-RF (mm)__lag_39,0.0
+SR (W/mt2)__lag_39,9.58
+BP (mmHg)__lag_39,759.73
+PM2.5 (µg/m³)__subindex__lag_39,58.0
+PM10 (µg/m³)__subindex__lag_39,61.0
+NO2 (µg/m³)__subindex__lag_39,13.0
+SO2 (µg/m³)__subindex__lag_39,7.0
+CO (mg/m³)__subindex__lag_39,30.0
+Ozone (µg/m³)__subindex__lag_39,19.0
+AQI__lag_39,62.0
+Second_Subindex__lag_39,58.0
+Dominance_Gap__lag_39,3.0
+Valid_Pollutant_Count__lag_39,6.0
+Valid_Subindex_Count__lag_39,6.0
+AQI_Boundary_Distance__lag_39,12.0
+Nearest_AQI_Boundary__lag_39,50.0
+PM2.5_Boundary_Distance__lag_39,9.0
+PM10_Boundary_Distance__lag_39,11.0
+NO2_Boundary_Distance__lag_39,37.0
+SO2_Boundary_Distance__lag_39,43.0
+CO_Boundary_Distance__lag_39,20.0
+Ozone_Boundary_Distance__lag_39,31.0
+CoElevated_Count_Above_50__lag_39,2.0
+CoElevated_Count_Above_100__lag_39,0.0
+Dominant_PM2.5__lag_39,0.0
+Dominant_PM10__lag_39,1.0
+Dominant_NO2__lag_39,0.0
+Dominant_SO2__lag_39,0.0
+Dominant_CO__lag_39,0.0
+Dominant_Ozone__lag_39,0.0
+AQI_Boundary_Velocity__lag_39,0.0
+Dominance_Stability_12h__lag_39,1.0
+PM2.5_Boundary_Velocity__lag_39,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_39,-6.0
+PM2.5_Boundary_Flux__lag_39,0.0
+PM10_Boundary_Velocity__lag_39,0.0
+PM10_ReguFlow_Signed_Distance__lag_39,-10.0
+PM10_Boundary_Flux__lag_39,0.0
+NO2_Boundary_Velocity__lag_39,0.0
+NO2_ReguFlow_Signed_Distance__lag_39,37.0
+NO2_Boundary_Flux__lag_39,0.0
+SO2_Boundary_Velocity__lag_39,0.0
+SO2_ReguFlow_Signed_Distance__lag_39,43.0
+SO2_Boundary_Flux__lag_39,0.0
+CO_Boundary_Velocity__lag_39,0.0
+CO_ReguFlow_Signed_Distance__lag_39,20.0
+CO_Boundary_Flux__lag_39,0.0
+Ozone_Boundary_Velocity__lag_39,0.0
+Ozone_ReguFlow_Signed_Distance__lag_39,31.0
+Ozone_Boundary_Flux__lag_39,0.0
+ReguFlow_Top2_Dominance_Gap__lag_39,3.0
+ReguFlow_Competition_Flux__lag_39,0.0
+PM2.5 (µg/m³)__lag_40,34.25
+PM10 (µg/m³)__lag_40,59.77
+NO2 (µg/m³)__lag_40,10.13
+SO2 (µg/m³)__lag_40,5.44
+CO (mg/m³)__lag_40,0.6
+Ozone (µg/m³)__lag_40,18.564999999999998
+AT (°C)__lag_40,31.15
+RH (%)__lag_40,74.71
+WS (m/s)__lag_40,0.78
+WD (deg)__lag_40,212.055
+RF (mm)__lag_40,0.0
+TOT-RF (mm)__lag_40,0.0
+SR (W/mt2)__lag_40,9.62
+BP (mmHg)__lag_40,759.64
+PM2.5 (µg/m³)__subindex__lag_40,58.0
+PM10 (µg/m³)__subindex__lag_40,61.0
+NO2 (µg/m³)__subindex__lag_40,13.0
+SO2 (µg/m³)__subindex__lag_40,7.0
+CO (mg/m³)__subindex__lag_40,30.0
+Ozone (µg/m³)__subindex__lag_40,19.0
+AQI__lag_40,62.0
+Second_Subindex__lag_40,58.0
+Dominance_Gap__lag_40,3.0
+Valid_Pollutant_Count__lag_40,6.0
+Valid_Subindex_Count__lag_40,6.0
+AQI_Boundary_Distance__lag_40,12.0
+Nearest_AQI_Boundary__lag_40,50.0
+PM2.5_Boundary_Distance__lag_40,9.0
+PM10_Boundary_Distance__lag_40,11.0
+NO2_Boundary_Distance__lag_40,37.0
+SO2_Boundary_Distance__lag_40,43.0
+CO_Boundary_Distance__lag_40,20.0
+Ozone_Boundary_Distance__lag_40,31.0
+CoElevated_Count_Above_50__lag_40,2.0
+CoElevated_Count_Above_100__lag_40,0.0
+Dominant_PM2.5__lag_40,0.0
+Dominant_PM10__lag_40,1.0
+Dominant_NO2__lag_40,0.0
+Dominant_SO2__lag_40,0.0
+Dominant_CO__lag_40,0.0
+Dominant_Ozone__lag_40,0.0
+AQI_Boundary_Velocity__lag_40,0.0
+Dominance_Stability_12h__lag_40,1.0
+PM2.5_Boundary_Velocity__lag_40,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_40,-6.0
+PM2.5_Boundary_Flux__lag_40,0.0
+PM10_Boundary_Velocity__lag_40,0.0
+PM10_ReguFlow_Signed_Distance__lag_40,-10.0
+PM10_Boundary_Flux__lag_40,0.0
+NO2_Boundary_Velocity__lag_40,0.0
+NO2_ReguFlow_Signed_Distance__lag_40,37.0
+NO2_Boundary_Flux__lag_40,0.0
+SO2_Boundary_Velocity__lag_40,0.0
+SO2_ReguFlow_Signed_Distance__lag_40,43.0
+SO2_Boundary_Flux__lag_40,0.0
+CO_Boundary_Velocity__lag_40,0.0
+CO_ReguFlow_Signed_Distance__lag_40,20.0
+CO_Boundary_Flux__lag_40,0.0
+Ozone_Boundary_Velocity__lag_40,0.0
+Ozone_ReguFlow_Signed_Distance__lag_40,31.0
+Ozone_Boundary_Flux__lag_40,0.0
+ReguFlow_Top2_Dominance_Gap__lag_40,3.0
+ReguFlow_Competition_Flux__lag_40,0.0
+PM2.5 (µg/m³)__lag_41,34.25
+PM10 (µg/m³)__lag_41,59.78
+NO2 (µg/m³)__lag_41,10.13
+SO2 (µg/m³)__lag_41,5.45
+CO (mg/m³)__lag_41,0.61
+Ozone (µg/m³)__lag_41,18.6
+AT (°C)__lag_41,31.16
+RH (%)__lag_41,74.65
+WS (m/s)__lag_41,0.78
+WD (deg)__lag_41,212.05
+RF (mm)__lag_41,0.0
+TOT-RF (mm)__lag_41,0.0
+SR (W/mt2)__lag_41,9.81
+BP (mmHg)__lag_41,759.56
+PM2.5 (µg/m³)__subindex__lag_41,58.0
+PM10 (µg/m³)__subindex__lag_41,61.0
+NO2 (µg/m³)__subindex__lag_41,13.0
+SO2 (µg/m³)__subindex__lag_41,7.0
+CO (mg/m³)__subindex__lag_41,30.0
+Ozone (µg/m³)__subindex__lag_41,19.0
+AQI__lag_41,62.0
+Second_Subindex__lag_41,58.0
+Dominance_Gap__lag_41,3.0
+Valid_Pollutant_Count__lag_41,6.0
+Valid_Subindex_Count__lag_41,6.0
+AQI_Boundary_Distance__lag_41,12.0
+Nearest_AQI_Boundary__lag_41,50.0
+PM2.5_Boundary_Distance__lag_41,9.0
+PM10_Boundary_Distance__lag_41,11.0
+NO2_Boundary_Distance__lag_41,37.0
+SO2_Boundary_Distance__lag_41,43.0
+CO_Boundary_Distance__lag_41,20.0
+Ozone_Boundary_Distance__lag_41,31.0
+CoElevated_Count_Above_50__lag_41,2.0
+CoElevated_Count_Above_100__lag_41,0.0
+Dominant_PM2.5__lag_41,0.0
+Dominant_PM10__lag_41,1.0
+Dominant_NO2__lag_41,0.0
+Dominant_SO2__lag_41,0.0
+Dominant_CO__lag_41,0.0
+Dominant_Ozone__lag_41,0.0
+AQI_Boundary_Velocity__lag_41,0.0
+Dominance_Stability_12h__lag_41,1.0
+PM2.5_Boundary_Velocity__lag_41,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_41,-6.0
+PM2.5_Boundary_Flux__lag_41,0.0
+PM10_Boundary_Velocity__lag_41,0.0
+PM10_ReguFlow_Signed_Distance__lag_41,-10.0
+PM10_Boundary_Flux__lag_41,0.0
+NO2_Boundary_Velocity__lag_41,0.0
+NO2_ReguFlow_Signed_Distance__lag_41,37.0
+NO2_Boundary_Flux__lag_41,0.0
+SO2_Boundary_Velocity__lag_41,0.0
+SO2_ReguFlow_Signed_Distance__lag_41,43.0
+SO2_Boundary_Flux__lag_41,0.0
+CO_Boundary_Velocity__lag_41,0.0
+CO_ReguFlow_Signed_Distance__lag_41,20.0
+CO_Boundary_Flux__lag_41,0.0
+Ozone_Boundary_Velocity__lag_41,0.0
+Ozone_ReguFlow_Signed_Distance__lag_41,31.0
+Ozone_Boundary_Flux__lag_41,0.0
+ReguFlow_Top2_Dominance_Gap__lag_41,3.0
+ReguFlow_Competition_Flux__lag_41,0.0
+PM2.5 (µg/m³)__lag_42,34.25
+PM10 (µg/m³)__lag_42,59.77
+NO2 (µg/m³)__lag_42,10.13
+SO2 (µg/m³)__lag_42,5.45
+CO (mg/m³)__lag_42,0.61
+Ozone (µg/m³)__lag_42,18.62
+AT (°C)__lag_42,31.16
+RH (%)__lag_42,74.525
+WS (m/s)__lag_42,0.78
+WD (deg)__lag_42,212.105
+RF (mm)__lag_42,0.0
+TOT-RF (mm)__lag_42,0.0
+SR (W/mt2)__lag_42,10.05
+BP (mmHg)__lag_42,759.505
+PM2.5 (µg/m³)__subindex__lag_42,58.0
+PM10 (µg/m³)__subindex__lag_42,61.0
+NO2 (µg/m³)__subindex__lag_42,13.0
+SO2 (µg/m³)__subindex__lag_42,7.0
+CO (mg/m³)__subindex__lag_42,30.0
+Ozone (µg/m³)__subindex__lag_42,19.0
+AQI__lag_42,62.0
+Second_Subindex__lag_42,58.0
+Dominance_Gap__lag_42,3.0
+Valid_Pollutant_Count__lag_42,6.0
+Valid_Subindex_Count__lag_42,6.0
+AQI_Boundary_Distance__lag_42,12.0
+Nearest_AQI_Boundary__lag_42,50.0
+PM2.5_Boundary_Distance__lag_42,9.0
+PM10_Boundary_Distance__lag_42,11.0
+NO2_Boundary_Distance__lag_42,37.0
+SO2_Boundary_Distance__lag_42,43.0
+CO_Boundary_Distance__lag_42,20.0
+Ozone_Boundary_Distance__lag_42,31.0
+CoElevated_Count_Above_50__lag_42,2.0
+CoElevated_Count_Above_100__lag_42,0.0
+Dominant_PM2.5__lag_42,0.0
+Dominant_PM10__lag_42,1.0
+Dominant_NO2__lag_42,0.0
+Dominant_SO2__lag_42,0.0
+Dominant_CO__lag_42,0.0
+Dominant_Ozone__lag_42,0.0
+AQI_Boundary_Velocity__lag_42,0.0
+Dominance_Stability_12h__lag_42,1.0
+PM2.5_Boundary_Velocity__lag_42,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_42,-6.0
+PM2.5_Boundary_Flux__lag_42,0.0
+PM10_Boundary_Velocity__lag_42,0.0
+PM10_ReguFlow_Signed_Distance__lag_42,-10.0
+PM10_Boundary_Flux__lag_42,0.0
+NO2_Boundary_Velocity__lag_42,0.0
+NO2_ReguFlow_Signed_Distance__lag_42,37.0
+NO2_Boundary_Flux__lag_42,0.0
+SO2_Boundary_Velocity__lag_42,0.0
+SO2_ReguFlow_Signed_Distance__lag_42,43.0
+SO2_Boundary_Flux__lag_42,0.0
+CO_Boundary_Velocity__lag_42,0.0
+CO_ReguFlow_Signed_Distance__lag_42,20.0
+CO_Boundary_Flux__lag_42,0.0
+Ozone_Boundary_Velocity__lag_42,0.0
+Ozone_ReguFlow_Signed_Distance__lag_42,31.0
+Ozone_Boundary_Flux__lag_42,0.0
+ReguFlow_Top2_Dominance_Gap__lag_42,3.0
+ReguFlow_Competition_Flux__lag_42,0.0
+PM2.5 (µg/m³)__lag_43,34.24
+PM10 (µg/m³)__lag_43,59.74
+NO2 (µg/m³)__lag_43,10.13
+SO2 (µg/m³)__lag_43,5.44
+CO (mg/m³)__lag_43,0.61
+Ozone (µg/m³)__lag_43,18.6
+AT (°C)__lag_43,31.18
+RH (%)__lag_43,74.42
+WS (m/s)__lag_43,0.78
+WD (deg)__lag_43,212.23
+RF (mm)__lag_43,0.0
+TOT-RF (mm)__lag_43,0.0
+SR (W/mt2)__lag_43,10.33
+BP (mmHg)__lag_43,759.41
+PM2.5 (µg/m³)__subindex__lag_43,58.0
+PM10 (µg/m³)__subindex__lag_43,61.0
+NO2 (µg/m³)__subindex__lag_43,13.0
+SO2 (µg/m³)__subindex__lag_43,7.0
+CO (mg/m³)__subindex__lag_43,30.0
+Ozone (µg/m³)__subindex__lag_43,19.0
+AQI__lag_43,62.0
+Second_Subindex__lag_43,58.0
+Dominance_Gap__lag_43,3.0
+Valid_Pollutant_Count__lag_43,6.0
+Valid_Subindex_Count__lag_43,6.0
+AQI_Boundary_Distance__lag_43,12.0
+Nearest_AQI_Boundary__lag_43,50.0
+PM2.5_Boundary_Distance__lag_43,9.0
+PM10_Boundary_Distance__lag_43,11.0
+NO2_Boundary_Distance__lag_43,37.0
+SO2_Boundary_Distance__lag_43,43.0
+CO_Boundary_Distance__lag_43,20.0
+Ozone_Boundary_Distance__lag_43,31.0
+CoElevated_Count_Above_50__lag_43,2.0
+CoElevated_Count_Above_100__lag_43,0.0
+Dominant_PM2.5__lag_43,0.0
+Dominant_PM10__lag_43,1.0
+Dominant_NO2__lag_43,0.0
+Dominant_SO2__lag_43,0.0
+Dominant_CO__lag_43,0.0
+Dominant_Ozone__lag_43,0.0
+AQI_Boundary_Velocity__lag_43,0.0
+Dominance_Stability_12h__lag_43,1.0
+PM2.5_Boundary_Velocity__lag_43,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_43,-6.0
+PM2.5_Boundary_Flux__lag_43,0.0
+PM10_Boundary_Velocity__lag_43,0.0
+PM10_ReguFlow_Signed_Distance__lag_43,-10.0
+PM10_Boundary_Flux__lag_43,0.0
+NO2_Boundary_Velocity__lag_43,0.0
+NO2_ReguFlow_Signed_Distance__lag_43,37.0
+NO2_Boundary_Flux__lag_43,0.0
+SO2_Boundary_Velocity__lag_43,0.0
+SO2_ReguFlow_Signed_Distance__lag_43,43.0
+SO2_Boundary_Flux__lag_43,0.0
+CO_Boundary_Velocity__lag_43,0.0
+CO_ReguFlow_Signed_Distance__lag_43,20.0
+CO_Boundary_Flux__lag_43,0.0
+Ozone_Boundary_Velocity__lag_43,0.0
+Ozone_ReguFlow_Signed_Distance__lag_43,31.0
+Ozone_Boundary_Flux__lag_43,0.0
+ReguFlow_Top2_Dominance_Gap__lag_43,3.0
+ReguFlow_Competition_Flux__lag_43,0.0
+PM2.5 (µg/m³)__lag_44,34.25
+PM10 (µg/m³)__lag_44,59.74
+NO2 (µg/m³)__lag_44,10.13
+SO2 (µg/m³)__lag_44,5.44
+CO (mg/m³)__lag_44,0.61
+Ozone (µg/m³)__lag_44,18.62
+AT (°C)__lag_44,31.19
+RH (%)__lag_44,74.255
+WS (m/s)__lag_44,0.78
+WD (deg)__lag_44,212.315
+RF (mm)__lag_44,0.0
+TOT-RF (mm)__lag_44,0.0
+SR (W/mt2)__lag_44,10.78
+BP (mmHg)__lag_44,759.38
+PM2.5 (µg/m³)__subindex__lag_44,58.0
+PM10 (µg/m³)__subindex__lag_44,61.0
+NO2 (µg/m³)__subindex__lag_44,13.0
+SO2 (µg/m³)__subindex__lag_44,7.0
+CO (mg/m³)__subindex__lag_44,30.0
+Ozone (µg/m³)__subindex__lag_44,19.0
+AQI__lag_44,62.0
+Second_Subindex__lag_44,58.0
+Dominance_Gap__lag_44,3.0
+Valid_Pollutant_Count__lag_44,6.0
+Valid_Subindex_Count__lag_44,6.0
+AQI_Boundary_Distance__lag_44,12.0
+Nearest_AQI_Boundary__lag_44,50.0
+PM2.5_Boundary_Distance__lag_44,9.0
+PM10_Boundary_Distance__lag_44,11.0
+NO2_Boundary_Distance__lag_44,37.0
+SO2_Boundary_Distance__lag_44,43.0
+CO_Boundary_Distance__lag_44,20.0
+Ozone_Boundary_Distance__lag_44,31.0
+CoElevated_Count_Above_50__lag_44,2.0
+CoElevated_Count_Above_100__lag_44,0.0
+Dominant_PM2.5__lag_44,0.0
+Dominant_PM10__lag_44,1.0
+Dominant_NO2__lag_44,0.0
+Dominant_SO2__lag_44,0.0
+Dominant_CO__lag_44,0.0
+Dominant_Ozone__lag_44,0.0
+AQI_Boundary_Velocity__lag_44,0.0
+Dominance_Stability_12h__lag_44,1.0
+PM2.5_Boundary_Velocity__lag_44,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_44,-6.0
+PM2.5_Boundary_Flux__lag_44,0.0
+PM10_Boundary_Velocity__lag_44,0.0
+PM10_ReguFlow_Signed_Distance__lag_44,-10.0
+PM10_Boundary_Flux__lag_44,0.0
+NO2_Boundary_Velocity__lag_44,0.0
+NO2_ReguFlow_Signed_Distance__lag_44,37.0
+NO2_Boundary_Flux__lag_44,0.0
+SO2_Boundary_Velocity__lag_44,0.0
+SO2_ReguFlow_Signed_Distance__lag_44,43.0
+SO2_Boundary_Flux__lag_44,0.0
+CO_Boundary_Velocity__lag_44,0.0
+CO_ReguFlow_Signed_Distance__lag_44,20.0
+CO_Boundary_Flux__lag_44,0.0
+Ozone_Boundary_Velocity__lag_44,0.0
+Ozone_ReguFlow_Signed_Distance__lag_44,31.0
+Ozone_Boundary_Flux__lag_44,0.0
+ReguFlow_Top2_Dominance_Gap__lag_44,3.0
+ReguFlow_Competition_Flux__lag_44,0.0
+PM2.5 (µg/m³)__lag_45,34.25
+PM10 (µg/m³)__lag_45,59.73
+NO2 (µg/m³)__lag_45,10.12
+SO2 (µg/m³)__lag_45,5.44
+CO (mg/m³)__lag_45,0.61
+Ozone (µg/m³)__lag_45,18.67
+AT (°C)__lag_45,31.21
+RH (%)__lag_45,74.04
+WS (m/s)__lag_45,0.78
+WD (deg)__lag_45,212.51
+RF (mm)__lag_45,0.0
+TOT-RF (mm)__lag_45,0.0
+SR (W/mt2)__lag_45,11.45
+BP (mmHg)__lag_45,759.36
+PM2.5 (µg/m³)__subindex__lag_45,58.0
+PM10 (µg/m³)__subindex__lag_45,61.0
+NO2 (µg/m³)__subindex__lag_45,13.0
+SO2 (µg/m³)__subindex__lag_45,7.0
+CO (mg/m³)__subindex__lag_45,30.0
+Ozone (µg/m³)__subindex__lag_45,19.0
+AQI__lag_45,62.0
+Second_Subindex__lag_45,58.0
+Dominance_Gap__lag_45,3.0
+Valid_Pollutant_Count__lag_45,6.0
+Valid_Subindex_Count__lag_45,6.0
+AQI_Boundary_Distance__lag_45,12.0
+Nearest_AQI_Boundary__lag_45,50.0
+PM2.5_Boundary_Distance__lag_45,9.0
+PM10_Boundary_Distance__lag_45,11.0
+NO2_Boundary_Distance__lag_45,37.0
+SO2_Boundary_Distance__lag_45,43.0
+CO_Boundary_Distance__lag_45,20.0
+Ozone_Boundary_Distance__lag_45,31.0
+CoElevated_Count_Above_50__lag_45,2.0
+CoElevated_Count_Above_100__lag_45,0.0
+Dominant_PM2.5__lag_45,0.0
+Dominant_PM10__lag_45,1.0
+Dominant_NO2__lag_45,0.0
+Dominant_SO2__lag_45,0.0
+Dominant_CO__lag_45,0.0
+Dominant_Ozone__lag_45,0.0
+AQI_Boundary_Velocity__lag_45,0.0
+Dominance_Stability_12h__lag_45,1.0
+PM2.5_Boundary_Velocity__lag_45,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_45,-6.0
+PM2.5_Boundary_Flux__lag_45,0.0
+PM10_Boundary_Velocity__lag_45,0.0
+PM10_ReguFlow_Signed_Distance__lag_45,-10.0
+PM10_Boundary_Flux__lag_45,0.0
+NO2_Boundary_Velocity__lag_45,0.0
+NO2_ReguFlow_Signed_Distance__lag_45,37.0
+NO2_Boundary_Flux__lag_45,0.0
+SO2_Boundary_Velocity__lag_45,0.0
+SO2_ReguFlow_Signed_Distance__lag_45,43.0
+SO2_Boundary_Flux__lag_45,0.0
+CO_Boundary_Velocity__lag_45,0.0
+CO_ReguFlow_Signed_Distance__lag_45,20.0
+CO_Boundary_Flux__lag_45,0.0
+Ozone_Boundary_Velocity__lag_45,0.0
+Ozone_ReguFlow_Signed_Distance__lag_45,31.0
+Ozone_Boundary_Flux__lag_45,0.0
+ReguFlow_Top2_Dominance_Gap__lag_45,3.0
+ReguFlow_Competition_Flux__lag_45,0.0
+PM2.5 (µg/m³)__lag_46,34.25
+PM10 (µg/m³)__lag_46,59.71
+NO2 (µg/m³)__lag_46,10.12
+SO2 (µg/m³)__lag_46,5.44
+CO (mg/m³)__lag_46,0.61
+Ozone (µg/m³)__lag_46,18.7
+AT (°C)__lag_46,31.22
+RH (%)__lag_46,73.94
+WS (m/s)__lag_46,0.78
+WD (deg)__lag_46,212.69
+RF (mm)__lag_46,0.0
+TOT-RF (mm)__lag_46,0.0
+SR (W/mt2)__lag_46,12.56
+BP (mmHg)__lag_46,759.38
+PM2.5 (µg/m³)__subindex__lag_46,58.0
+PM10 (µg/m³)__subindex__lag_46,61.0
+NO2 (µg/m³)__subindex__lag_46,13.0
+SO2 (µg/m³)__subindex__lag_46,7.0
+CO (mg/m³)__subindex__lag_46,30.0
+Ozone (µg/m³)__subindex__lag_46,19.0
+AQI__lag_46,62.0
+Second_Subindex__lag_46,58.0
+Dominance_Gap__lag_46,3.0
+Valid_Pollutant_Count__lag_46,6.0
+Valid_Subindex_Count__lag_46,6.0
+AQI_Boundary_Distance__lag_46,12.0
+Nearest_AQI_Boundary__lag_46,50.0
+PM2.5_Boundary_Distance__lag_46,9.0
+PM10_Boundary_Distance__lag_46,11.0
+NO2_Boundary_Distance__lag_46,37.0
+SO2_Boundary_Distance__lag_46,43.0
+CO_Boundary_Distance__lag_46,20.0
+Ozone_Boundary_Distance__lag_46,31.0
+CoElevated_Count_Above_50__lag_46,2.0
+CoElevated_Count_Above_100__lag_46,0.0
+Dominant_PM2.5__lag_46,0.0
+Dominant_PM10__lag_46,1.0
+Dominant_NO2__lag_46,0.0
+Dominant_SO2__lag_46,0.0
+Dominant_CO__lag_46,0.0
+Dominant_Ozone__lag_46,0.0
+AQI_Boundary_Velocity__lag_46,0.0
+Dominance_Stability_12h__lag_46,1.0
+PM2.5_Boundary_Velocity__lag_46,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_46,-6.0
+PM2.5_Boundary_Flux__lag_46,0.0
+PM10_Boundary_Velocity__lag_46,0.0
+PM10_ReguFlow_Signed_Distance__lag_46,-10.0
+PM10_Boundary_Flux__lag_46,0.0
+NO2_Boundary_Velocity__lag_46,0.0
+NO2_ReguFlow_Signed_Distance__lag_46,37.0
+NO2_Boundary_Flux__lag_46,0.0
+SO2_Boundary_Velocity__lag_46,0.0
+SO2_ReguFlow_Signed_Distance__lag_46,43.0
+SO2_Boundary_Flux__lag_46,0.0
+CO_Boundary_Velocity__lag_46,0.0
+CO_ReguFlow_Signed_Distance__lag_46,20.0
+CO_Boundary_Flux__lag_46,0.0
+Ozone_Boundary_Velocity__lag_46,0.0
+Ozone_ReguFlow_Signed_Distance__lag_46,31.0
+Ozone_Boundary_Flux__lag_46,0.0
+ReguFlow_Top2_Dominance_Gap__lag_46,3.0
+ReguFlow_Competition_Flux__lag_46,0.0
+PM2.5 (µg/m³)__lag_47,34.25
+PM10 (µg/m³)__lag_47,59.71
+NO2 (µg/m³)__lag_47,10.12
+SO2 (µg/m³)__lag_47,5.44
+CO (mg/m³)__lag_47,0.61
+Ozone (µg/m³)__lag_47,18.74
+AT (°C)__lag_47,31.23
+RH (%)__lag_47,73.82
+WS (m/s)__lag_47,0.78
+WD (deg)__lag_47,212.695
+RF (mm)__lag_47,0.0
+TOT-RF (mm)__lag_47,0.0
+SR (W/mt2)__lag_47,13.565000000000001
+BP (mmHg)__lag_47,759.38
+PM2.5 (µg/m³)__subindex__lag_47,58.0
+PM10 (µg/m³)__subindex__lag_47,61.0
+NO2 (µg/m³)__subindex__lag_47,13.0
+SO2 (µg/m³)__subindex__lag_47,7.0
+CO (mg/m³)__subindex__lag_47,30.0
+Ozone (µg/m³)__subindex__lag_47,19.0
+AQI__lag_47,62.0
+Second_Subindex__lag_47,58.0
+Dominance_Gap__lag_47,3.0
+Valid_Pollutant_Count__lag_47,6.0
+Valid_Subindex_Count__lag_47,6.0
+AQI_Boundary_Distance__lag_47,12.0
+Nearest_AQI_Boundary__lag_47,50.0
+PM2.5_Boundary_Distance__lag_47,9.0
+PM10_Boundary_Distance__lag_47,11.0
+NO2_Boundary_Distance__lag_47,37.0
+SO2_Boundary_Distance__lag_47,43.0
+CO_Boundary_Distance__lag_47,20.0
+Ozone_Boundary_Distance__lag_47,31.0
+CoElevated_Count_Above_50__lag_47,2.0
+CoElevated_Count_Above_100__lag_47,0.0
+Dominant_PM2.5__lag_47,0.0
+Dominant_PM10__lag_47,1.0
+Dominant_NO2__lag_47,0.0
+Dominant_SO2__lag_47,0.0
+Dominant_CO__lag_47,0.0
+Dominant_Ozone__lag_47,0.0
+AQI_Boundary_Velocity__lag_47,0.0
+Dominance_Stability_12h__lag_47,1.0
+PM2.5_Boundary_Velocity__lag_47,0.0
+PM2.5_ReguFlow_Signed_Distance__lag_47,-6.0
+PM2.5_Boundary_Flux__lag_47,0.0
+PM10_Boundary_Velocity__lag_47,0.0
+PM10_ReguFlow_Signed_Distance__lag_47,-10.0
+PM10_Boundary_Flux__lag_47,0.0
+NO2_Boundary_Velocity__lag_47,0.0
+NO2_ReguFlow_Signed_Distance__lag_47,37.0
+NO2_Boundary_Flux__lag_47,0.0
+SO2_Boundary_Velocity__lag_47,0.0
+SO2_ReguFlow_Signed_Distance__lag_47,43.0
+SO2_Boundary_Flux__lag_47,0.0
+CO_Boundary_Velocity__lag_47,0.0
+CO_ReguFlow_Signed_Distance__lag_47,20.0
+CO_Boundary_Flux__lag_47,0.0
+Ozone_Boundary_Velocity__lag_47,0.0
+Ozone_ReguFlow_Signed_Distance__lag_47,31.0
+Ozone_Boundary_Flux__lag_47,0.0
+ReguFlow_Top2_Dominance_Gap__lag_47,3.0
+ReguFlow_Competition_Flux__lag_47,0.0

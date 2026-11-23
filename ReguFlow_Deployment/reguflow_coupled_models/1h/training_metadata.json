@@ -1,0 +1,81 @@
+{
+  "model": "ReguFlow",
+  "horizon_hours": 1,
+  "train_rows": 14048,
+  "validation_rows": 2544,
+  "sequence_length": 48,
+  "temporal_features_per_step": 27,
+  "regulatory_features_per_step": 98,
+  "total_features_per_step": 125,
+  "total_lagged_features": 6000,
+  "temporal_hidden_size": 64,
+  "regulatory_hidden_size": 64,
+  "fusion_size": 64,
+  "decoder_size": 64,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "maximum_epochs": 10,
+  "patience": 3,
+  "loss": "HuberLoss",
+  "optimizer": "Adam",
+  "target_standardization": "Training data only",
+  "target_columns": [
+    "Target_PM2.5 (µg/m³)",
+    "Target_PM10 (µg/m³)",
+    "Target_NO2 (µg/m³)",
+    "Target_SO2 (µg/m³)",
+    "Target_CO (mg/m³)",
+    "Target_Ozone (µg/m³)"
+  ],
+  "best_epoch": 6,
+  "best_validation_loss": 0.12953978167764796,
+  "device": "cpu",
+  "training_history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.1050055392663544,
+      "validation_loss": 0.16441957586966222
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.0690757880169805,
+      "validation_loss": 0.1738130528034654
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.06683395795337431,
+      "validation_loss": 0.14582662856054007
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.06509741040154579,
+      "validation_loss": 0.1598009135363237
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.06355421756370871,
+      "validation_loss": 0.14322973497258792
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.062090646967733094,
+      "validation_loss": 0.12953978167764796
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.06124260326622559,
+      "validation_loss": 0.13487250165744397
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.059915268051189824,
+      "validation_loss": 0.15901650179107235
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.05767559247401146,
+      "validation_loss": 0.16999233874884792
+    }
+  ]
+}
